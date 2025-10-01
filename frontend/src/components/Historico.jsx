@@ -38,7 +38,7 @@ const [filtroAno, setFiltroAno] = useState('');
 
 
       // Buscar histórico
-      const response = await fetch(`http://localhost:3001/api/historico?${params}`, {
+      const response = await fetch(`${API_URL}/api/historico?${params}`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -69,7 +69,7 @@ const [filtroAno, setFiltroAno] = useState('');
   // Buscar estatísticas
   const fetchStats = async () => {
     try {
-      const response = await fetch('http://localhost:3001/api/historico/estatisticas', {
+      const response = await fetch('${API_URL}/api/historico/estatisticas', {
         headers: { 'Authorization': `Bearer ${token}` }
 });
 
@@ -106,7 +106,7 @@ const [filtroAno, setFiltroAno] = useState('');
     }
 
     try {
-      const response = await fetch(`http://localhost:3001/api/historico/deletar-resposta/${id}`, {
+      const response = await fetch(`${API_URL}/api/historico/deletar-resposta/${id}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`

@@ -15,7 +15,7 @@ export const AuthProvider = ({ children }) => {
   const [token, setToken] = useState(localStorage.getItem('token'));
   const [loading, setLoading] = useState(true);
 
-  const API_BASE_URL = 'http://localhost:3001/api';
+  const API_BASE_URL = '${API_URL}/api';
 
   useEffect(() => {
     if (token) {

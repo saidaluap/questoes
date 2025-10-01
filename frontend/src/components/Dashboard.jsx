@@ -51,6 +51,7 @@ const [refreshFlag, setRefreshFlag] = useState(false);
 <Historico refreshFlag={refreshFlag} />
 const forcarAtualizacao = () => setRefreshFlag(prev => !prev);
 
+const API_URL = import.meta.env.VITE_API_URL;
 
 const fetchQuestoes = async () => {
   setLoading(true);
@@ -70,19 +71,19 @@ const fetchQuestoes = async () => {
 
     if (semFiltrosNenhum()) {
       // SEM FILTROS: busque o total absoluto separado
-      const totalResponse = await fetch('http://localhost:3001/api/questoes/total', {
+      const totalResponse = await fetch('${API_URL}/api/questoes/total', {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const totalData = await totalResponse.json();
       setStats(prev => ({ ...prev, total: totalData.total }));
       setTotalPages(Math.ceil(totalData.total / QUESTIONS_PER_PAGE));
 
-      response = await fetch(`http://localhost:3001/api/questoes?page=${currentPage}&limit=${QUESTIONS_PER_PAGE}`, {
+      response = await fetch(`${API_URL}/api/questoes?page=${currentPage}&limit=${QUESTIONS_PER_PAGE}`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
     } else {
       // COM FILTROS: busque normalmente
-      response = await fetch(`http://localhost:3001/api/questoes?${params}`, {
+      response = await fetch(`${API_URL}/api/questoes?${params}`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
     }
@@ -125,7 +126,7 @@ const fetchQuestoes = async () => {
 
   const fetchFullStats = async () => {
     try {
-      const response = await fetch(`http://localhost:3001/api/questoes`, {
+      const response = await fetch(`${API_URL}/api/questoes`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -209,7 +210,7 @@ const handleResponder = async (questionId) => {
   };
 
   try {
-    const response = await fetch('http://localhost:3001/api/historico/salvar-resposta', {
+    const response = await fetch('${API_URL}/api/historico/salvar-resposta', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -282,7 +283,7 @@ const handleResponder = async (questionId) => {
     setLoadingComentarios(prev => ({ ...prev, [questionId]: true }));
     
     try {
-      const response = await fetch(`http://localhost:3001/api/questoes/${questionId}/comentarios`, {
+      const response = await fetch(`${API_URL}/api/questoes/${questionId}/comentarios`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -316,7 +317,7 @@ const handleResponder = async (questionId) => {
     }
     
     try {
-      const response = await fetch(`http://localhost:3001/api/questoes/${questionId}/comentarios`, {
+      const response = await fetch(`${API_URL}/api/questoes/${questionId}/comentarios`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -366,7 +367,7 @@ const handleResponder = async (questionId) => {
     setLoadingNotificacao(prev => ({ ...prev, [questionId]: true }));
     
     try {
-      const response = await fetch(`http://localhost:3001/api/questoes/${questionId}/notificar-erro`, {
+      const response = await fetch(`${API_URL}/api/questoes/${questionId}/notificar-erro`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

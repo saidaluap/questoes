@@ -13,7 +13,7 @@ const handleResponder = async () => {
 
     // Faz o POST para salvar a resposta no backend
     try {
-      await fetch('http://localhost:3001/api/historico/salvar-resposta', {
+      await fetch('${API_URL}/api/historico/salvar-resposta', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
