@@ -11,6 +11,8 @@ const handleResponder = async () => {
     setMostrarResultado(true);
     setMostrarComentario(true);
 
+  const API_URL = import.meta.env.VITE_API_URL;
+
     // Faz o POST para salvar a resposta no backend
     try {
       await fetch('${API_URL}/api/historico/salvar-resposta', {
