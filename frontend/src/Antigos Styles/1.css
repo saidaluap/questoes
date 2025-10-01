@@ -1,0 +1,398 @@
+/* ==========================================================================
+   NOVO LAYOUT DE LOGIN BASEADO NA IMAGEM DE REFERÊNCIA
+   ========================================================================== */
+
+.login-page-new {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #1e3a8a; /* Azul marinho */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.login-container-new {
+  flex: 1;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  min-height: calc(100vh - 60px);
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+/* ==========================================================================
+   SEÇÃO DE BOAS-VINDAS (LADO ESQUERDO)
+   ========================================================================== */
+.welcome-section {
+  flex: 1;
+  background-color: #1e3a8a; /* Azul marinho sólido */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 40px;
+  position: relative;
+  overflow: hidden;
+}
+
+.welcome-content {
+  text-align: left;
+  color: white;
+  z-index: 2;
+  position: relative;
+  max-width: 400px;
+}
+
+.welcome-title {
+  font-size: 48px;
+  font-weight: 300;
+  margin-bottom: 24px;
+  line-height: 1.2;
+}
+
+.welcome-description {
+  font-size: 16px;
+  line-height: 1.6;
+  opacity: 0.9;
+  margin-bottom: 0;
+}
+
+/* ==========================================================================
+   ELEMENTOS DECORATIVOS
+   ========================================================================== */
+.decorative-elements {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.shape {
+  position: absolute;
+  border-radius: 50px;
+  opacity: 0.6;
+}
+
+.shape-1 {
+  width: 120px;
+  height: 120px;
+  background-color: #3b82f6;
+  top: 15%;
+  left: 10%;
+  transform: rotate(45deg);
+  border-radius: 20px;
+}
+
+.shape-2 {
+  width: 80px;
+  height: 80px;
+  background-color: #60a5fa;
+  top: 25%;
+  right: 15%;
+  transform: rotate(30deg);
+  border-radius: 15px;
+}
+
+.shape-3 {
+  width: 200px;
+  height: 40px;
+  background-color: #93c5fd;
+  bottom: 30%;
+  left: 5%;
+  transform: rotate(-15deg);
+  border-radius: 20px;
+}
+
+.shape-4 {
+  width: 150px;
+  height: 30px;
+  background-color: #dbeafe;
+  bottom: 20%;
+  right: 10%;
+  transform: rotate(25deg);
+  border-radius: 15px;
+}
+
+.shape-5 {
+  width: 100px;
+  height: 25px;
+  background-color: #bfdbfe;
+  top: 60%;
+  left: 20%;
+  transform: rotate(-30deg);
+  border-radius: 12px;
+}
+
+.shape-6 {
+  width: 60px;
+  height: 60px;
+  background-color: #fbbf24;
+  bottom: 15%;
+  left: 60%;
+  transform: rotate(45deg);
+  border-radius: 30px;
+}
+
+/* ==========================================================================
+   SEÇÃO DE LOGIN (LADO DIREITO)
+   ========================================================================== */
+.login-section {
+  flex: 1;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 40px;
+}
+
+.login-form-container {
+  width: 100%;
+  max-width: 350px;
+}
+
+.login-header-new {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.login-title {
+  font-size: 24px;
+  font-weight: 400;
+  color: #6b7280;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+}
+
+/* ==========================================================================
+   FORMULÁRIO DE LOGIN
+   ========================================================================== */
+.login-form-new {
+  width: 100%;
+}
+
+.form-group-new {
+  margin-bottom: 20px;
+}
+
+.input-container-new {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.input-icon-new {
+  position: absolute;
+  left: 15px;
+  z-index: 2;
+  color: #9ca3af;
+}
+
+.form-input-new {
+  width: 100%;
+  padding: 15px 15px 15px 50px;
+  border: none;
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #374151;
+  transition: all 0.2s ease;
+}
+
+.form-input-new:focus {
+  outline: none;
+  background-color: #e5e7eb;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.form-input-new::placeholder {
+  color: #9ca3af;
+}
+
+/* ==========================================================================
+   OPÇÕES DO FORMULÁRIO
+   ========================================================================== */
+.form-options-new {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+
+.checkbox-container-new {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: #6b7280;
+}
+
+.checkbox-input-new {
+  display: none;
+}
+
+.checkbox-custom-new {
+  width: 18px;
+  height: 18px;
+  border: 2px solid #d1d5db;
+  border-radius: 3px;
+  margin-right: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.checkbox-input-new:checked + .checkbox-custom-new {
+  background-color: #3b82f6;
+  border-color: #3b82f6;
+}
+
+.checkbox-input-new:checked + .checkbox-custom-new::after {
+  content: '✓';
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.checkbox-label-new {
+  user-select: none;
+}
+
+.forgot-password-new {
+  color: #6b7280;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.forgot-password-new:hover {
+  color: #3b82f6;
+}
+
+/* ==========================================================================
+   BOTÃO DE LOGIN
+   ========================================================================== */
+.login-button-new {
+  width: 100%;
+  padding: 15px;
+  background: linear-gradient(135deg, #a855f7 0%, #ec4899 100%);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  letter-spacing: 1px;
+}
+
+.login-button-new:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px -5px rgba(168, 85, 247, 0.4);
+}
+
+.login-button-new:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.loading-spinner-new {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.spinner-new {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* ==========================================================================
+   MENSAGEM DE ERRO
+   ========================================================================== */
+.error-message-new {
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #dc2626;
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+}
+
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+.footer-new {
+  text-align: center;
+  padding: 20px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+}
+
+/* ==========================================================================
+   RESPONSIVIDADE
+   ========================================================================== */
+@media (max-width: 768px) {
+  .login-container-new {
+    flex-direction: column;
+    margin: 20px;
+    border-radius: 15px;
+    min-height: calc(100vh - 40px);
+  }
+  
+  .welcome-section {
+    padding: 40px 30px;
+    min-height: 300px;
+  }
+  
+  .welcome-title {
+    font-size: 36px;
+  }
+  
+  .login-section {
+    padding: 40px 30px;
+  }
+  
+  .decorative-elements {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .login-container-new {
+    margin: 10px;
+    border-radius: 10px;
+    min-height: calc(100vh - 20px);
+  }
+  
+  .welcome-section,
+  .login-section {
+    padding: 30px 20px;
+  }
+  
+  .welcome-title {
+    font-size: 28px;
+  }
+  
+  .login-form-container {
+    max-width: 100%;
+  }
+}
+

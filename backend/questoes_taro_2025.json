@@ -1,0 +1,2247 @@
+[
+  {
+    "id": "Q001",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Conforme a classificação Subaxial Injury Classification (SLIC), na avaliação do status neurológico, a maior pontuação ocorre no paciente",
+    "alternativas": [
+      {"letra": "A", "texto": "intacto."},
+      {"letra": "B", "texto": "com lesão de raiz nervosa."},
+      {"letra": "C", "texto": "com lesão medular completa."},
+      {"letra": "D", "texto": "com lesão medular incompleta."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q002",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "Patologias do Ombro e Cotovelo",
+    "ano": 2025,
+    "questao": "Criança de 12 meses de idade é levada à emergência por dor e impotência funcional no cotovelo esquerdo. O responsável que acompanha a criança não sabe informar se houve trauma. Não apresenta febre. Ao exame clínico, apresenta edema no cotovelo e pseudoparalisia do membro acometido. Após exames de radiografia de cotovelo (imagem a seguir), conclui-se que o diagnóstico é: ",
+    "alternativas": [
+      {"letra": "A", "texto": "pronação dolorosa."},
+      {"letra": "B", "texto": "luxação de cotovelo."},
+      {"letra": "C", "texto": "artrite séptica do cotovelo."},
+      {"letra": "D", "texto": "fratura fisária do úmero distal."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/002.png"
+  },
+  {
+    "id": "Q003",
+    "tipo": "TARO",
+    "area": "Pé e Tornozelo",
+    "subtema": "Patologias do Pé e Tornozelo",
+    "ano": 2025,
+    "questao": "Paciente masculino, 67 anos, com déficit neurológico no membro inferior direito por neuropatia diabética e com quadro avançado de osteoartrose do tornozelo ipsilateral. Refere dor moderada ao deambular e queixa de quedas frequentes por instabilidade do tornozelo. Na falha do tratamento conservador, com o uso de bota imobilizadora e de medicamentos analgésicos e anti-inflamatórios, a opção cirúrgica mais indicada é",
+    "alternativas": [
+      {"letra": "A", "texto": "artrodiastase do tornozelo."},
+      {"letra": "B", "texto": "artrodese tibiotársica com três parafusos."},
+      {"letra": "C", "texto": "artroplastia total do tornozelo e reparo ligamentar."},
+      {"letra": "D", "texto": "artrodese tibiotalocalcaneana com haste retrógrada."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q004",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "Patologias do Ombro e Cotovelo",
+    "ano": 2025,
+    "questao": "Paciente do sexo feminino, 30 anos, magra, praticante de musculação, destra, vítima de queda de moto com trauma sobre o ombro direito. Procurou atendimento de urgência em razão de intensa dor, e exames primários não evidenciaram fratura ou luxação do ombro. O exame a seguir foi solicitado, e as setas brancas e vermelha denotam as principais alterações. Os diagnósticos são:",
+    "alternativas": [
+        {"letra": "A", "texto": "lesão do supraespinal com luxação medial da cabeça longa do bíceps."},
+        {"letra": "B", "texto": "lesão do subescapular com luxação medial da cabeça longa do bíceps."},
+        {"letra": "C", "texto": "lesão do supraespinal com luxação anterior da cabeça longa do bíceps."},
+        {"letra": "D", "texto": "lesão do subescapular com luxação anterior da cabeça longa do bíceps."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/004.png"
+  },
+  {
+    "id": "Q005",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na fratura do terço proximal do úmero, o mecanismo por queda ao solo sobre o ombro gera forças deformantes que ocasionam o desvio da cabeça em:",
+    "alternativas": [
+      {"letra": "A", "texto": "Varo"},
+      {"letra": "B", "texto": "Valgo"},
+      {"letra": "C", "texto": "Adução"},
+      {"letra": "D", "texto": "Abdução"}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q006",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "Fraturas do Úmero",
+    "ano": 2025,
+    "questao": "Na formação óssea dos membros superiores, o primeiro osso a se ossificar é:",
+    "alternativas": [
+      {"letra": "A", "texto": "o úmero, por ossificação endocondral"},
+      {"letra": "B", "texto": "a clavícula, por ossificação endocondral."},
+      {"letra": "C", "texto": "o úmero, por ossificação intramembranosa"},
+      {"letra": "D", "texto": "a clavícula, por ossificação intramembranosa."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q007",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Sobre o tratamento cirúrgico da lesão SLAP, a idade recomendada para o reparo labial é",
+    "alternativas": [
+      {"letra": "A", "texto": "até 40 anos."},
+      {"letra": "B", "texto": "40 a 50 anos."},
+      {"letra": "C", "texto": "50 a 60 anos."},
+      {"letra": "D", "texto": "acima de 60 anos."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q008",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "Instabilidade do Ombro",
+    "ano": 2025,
+    "questao": "Paciente do sexo masculino, 18 anos, com instabilidade anterior traumática do ombro. O posicionamento do ombro e a estrutura comprometida na imagem de ressonância magnética a seguir são, respectivamente, Fonte: AZAR, F. M.; BEATY, J. H. Campbell’s operative orthopaedics. 14. ed. Philadelphia: Elsevier, 2021.",
+    "alternativas": [
+      {"letra": "A", "texto": "FABS e posterior."},
+      {"letra": "B", "texto": "ABER e posterior."},
+      {"letra": "C", "texto": "FABS e anteroinferior."},
+      {"letra": "D", "texto": "ABER e anteroinferior."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/008.png"
+  },
+  {
+    "id": "Q009",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "Epicondilite Lateral",
+    "ano": 2025,
+    "questao": "Na propedêutica da epicondilite lateral, o teste de COZEN é realizado com o cotovelo inicialmente",
+    "alternativas": [
+      {"letra": "A", "texto": "em extensão total e antebraço pronado."},
+      {"letra": "B", "texto": "em extensão total e antebraço supinado."},
+      {"letra": "C", "texto": "em flexão de 90 graus e antebraço pronado."},
+      {"letra": "D", "texto": "em flexão de 90 graus e antebraço supinado."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q010",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "No tratamento cirúrgico da lesão proximal dos isquiotibiais, são complicações primárias",
+    "alternativas": [
+      {"letra": "A", "texto": "rerruptura e dor persistente."},
+      {"letra": "B", "texto": "rerruptura e infecção superficial."},
+      {"letra": "C", "texto": "dor persistente e diminuição de força."},
+      {"letra": "D", "texto": "infecção superficial e diminuição da força."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q011",
+    "tipo": "TARO",
+    "area": "Tumores",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na doença de PAGET, as lesões radiográficas",
+    "alternativas": [
+      {"letra": "A", "texto": "são tipicamente líticas e, geralmente, são captadas na cintilografia óssea."},
+      {"letra": "B", "texto": "são tipicamente líticas e, geralmente, não são captadas na cintilografia óssea."},
+      {"letra": "C", "texto": "variam de acordo com o estágio da doença e, geralmente, são captadas na cintilografia óssea."},
+      {"letra": "D", "texto": "variam de acordo com o estágio da doença e, geralmente, não são captadas na cintilografia óssea."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q012",
+    "tipo": "TARO",
+    "area": "Tumores",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A síndrome de GARDNER é a associação entre pólipos intestinais, fibromatose e cistos cutâneos com múltiplos",
+    "alternativas": [
+      {"letra": "A", "texto": "osteomas."},
+      {"letra": "B", "texto": "encondromas."},
+      {"letra": "C", "texto": "osteoblastomas."},
+      {"letra": "D", "texto": "osteocondromas."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q013",
+    "tipo": "TARO",
+    "area": "Tumores",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A síndrome de JAFFE-CAMPANACCI é caracterizada pela associação entre",
+    "alternativas": [
+      {"letra": "A", "texto": "displasia fibrosa poliostótica e manchas café com leite."},
+      {"letra": "B", "texto": "displasia fibrosa poliostótica e mixomas intramusculares."},
+      {"letra": "C", "texto": "múltiplos fibromas não ossificantes e manchas café com leite."},
+      {"letra": "D", "texto": "múltiplos fibromas não ossificantes e mixomas intramusculares."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q014",
+    "tipo": "TARO",
+    "area": "Tumores",
+    "subtema": "Adamantinoma",
+    "ano": 2025,
+    "questao": "A apresentação radiográfica mais comum do adamantinoma é uma lesão",
+    "alternativas": [
+      {"letra": "A", "texto": "radiopaca na diáfise da tíbia."},
+      {"letra": "B", "texto": "radiopaca na metáfise da tíbia."},
+      {"letra": "C", "texto": "radiolucente na diáfise da tíbia."},
+      {"letra": "D", "texto": "radiolucente na metáfise da tíbia."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q015",
+    "tipo": "TARO",
+    "area": "Tumores",
+    "subtema": "Sarcoma de Ewing",
+    "ano": 2025,
+    "questao": "O sarcoma de EWING tem pior prognóstico em pacientes do sexo",
+    "alternativas": [
+      {"letra": "A", "texto": "feminino e em pacientes mais jovens (menores de 12 a 15 anos)."},
+      {"letra": "B", "texto": "feminino e em pacientes mais velhos (maiores de 12 a 15 anos)."},
+      {"letra": "C", "texto": "masculino e em pacientes mais jovens (menores de 12 a 15 anos)."},
+      {"letra": "D", "texto": "masculino e em pacientes mais velhos (maiores de 12 a 15 anos)."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q016",
+    "tipo": "TARO",
+    "area": "Tumores",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A fratura tipo “banana” é",
+    "alternativas": [
+      {"letra": "A", "texto": "transversa, associada a traumas de alta energia."},
+      {"letra": "B", "texto": "segmentar, associada a traumas de alta energia."},
+      {"letra": "C", "texto": "transversa, associada a traumas de baixa energia em osso patológico."},
+      {"letra": "D", "texto": "segmentar, associada a traumas de baixa energia em osso patológico."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q017",
+    "tipo": "TARO",
+    "area": "Tumores",
+    "subtema": "Classificação de Enneking",
+    "ano": 2025,
+    "questao": "De acordo com ENNEKING, uma lesão tumoral maligna, extracompartimental, de baixo grau e com metástases a distância está no estágio",
+    "alternativas": [
+      {"letra": "A", "texto": "I."},
+      {"letra": "B", "texto": "II."},
+      {"letra": "C", "texto": "III."},
+      {"letra": "D", "texto": "IV."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q018",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "Torcicolo Congênito",
+    "ano": 2025,
+    "questao": "Uma forma de torcicolo congênito indolor que, geralmente, está associada a anomalias ósseas na coluna cervical está relacionada à",
+    "alternativas": [
+      {"letra": "A", "texto": "síndrome de GRISEL."},
+      {"letra": "B", "texto": "deformidade de ALFREDEL."},
+      {"letra": "C", "texto": "síndrome de KLIPPEL-FEIL."},
+      {"letra": "D", "texto": "deformidade de SPRENGEL."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q019",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "Mucopolissacaridose",
+    "ano": 2025,
+    "questao": "Em mucopolissacaridose, o tipo que evolui com complicação cardiológica fatal antes de 10 anos de idade é a síndrome de",
+    "alternativas": [
+      {"letra": "A", "texto": "SCHEIE."},
+      {"letra": "B", "texto": "HURLER."},
+      {"letra": "C", "texto": "HUNTER."},
+      {"letra": "D", "texto": "MORQUIO."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q020",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "Artrogripose",
+    "ano": 2025,
+    "questao": "Na artrogripose clássica, as crianças geralmente apresentam",
+    "alternativas": [
+      {"letra": "A", "texto": "hemangioma cutâneo na fronte e inteligência normal."},
+      {"letra": "B", "texto": "hemangioma cutâneo na região da coxa e inteligência normal."},
+      {"letra": "C", "texto": "hemangioma cutâneo na região da coxa e inteligência alterada."},
+      {"letra": "D", "texto": "hemangioma cutâneo no membro superior e inteligência normal."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q021",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "Osteonecrose do Quadril",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, de uma ressonância magnética do quadril esquerdo com osteonecrose, observamos uma sequência ponderada em Fonte: AZAR, F. M.; BEATY, J. H. Campbell’s operative orthopaedics. 14. ed. Philadelphia: Elsevier, 2021.",
+    "alternativas": [
+      {"letra": "A", "texto": "T1 com imagem geográfica."},
+      {"letra": "B", "texto": "T2 com imagem geográfica."},
+      {"letra": "C", "texto": "T1 com imagem de “dupla linha”, típica de osteonecrose."},
+      {"letra": "D", "texto": "T2 com imagem de “dupla linha”, típica de osteonecrose."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/021.png"
+  },
+  {
+    "id": "Q022",
+    "tipo": "TARO",
+    "area": "Infecção",
+    "subtema": "Patologias do Quadril",
+    "ano": 2025,
+    "questao": "Criança com dois meses de vida apresentando febre, irritabilidade e pseudoparalisia do membro inferior direito há três dias. Apresenta-se em atitude de flexão e rotação externa do quadril. Recebeu alta da UTI neonatal há uma semana. O ultrassom do quadril direito mostra um aumento da quantidade de líquido articular. A radiografia a seguir mostra um aumento do espaço articular à direita. O diagnóstico e o tratamento para o caso em questão são, respectivamente, Fonte: WEINSTEIN, S. L.; FLYNN, J. M. Lovell and Winter’s pediatric orthopaedics. 8. ed. Philadelphia: Lippincott Williams & Wilkins, 2021.",
+    "alternativas": [
+      {"letra": "A", "texto": "sinovite transitória do quadril e drenagem cirúrgica."},
+      {"letra": "B", "texto": "sinovite transitória do quadril e repouso/observação."},
+      {"letra": "C", "texto": "artrite séptica do quadril, drenagem cirúrgica e antibioticoterapia."},
+      {"letra": "D", "texto": "artrite séptica do quadril, repouso/observação e antibioticoterapia."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/022.png"
+  },
+  {
+    "id": "Q023",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "Anatomia e Fisiologia Geral",
+    "ano": 2025,
+    "questao": "A lesão do músculo peitoral maior ocorre, geralmente,",
+    "alternativas": [
+      {"letra": "A", "texto": "no ventre muscular."},
+      {"letra": "B", "texto": "na inserção umeral."},
+      {"letra": "C", "texto": "na cabeça clavicular."},
+      {"letra": "D", "texto": "na cabeça esternocostal."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q024",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "Malformações Congênitas da Mão",
+    "ano": 2025,
+    "questao": "A polidactilia com duplicação do polegar do tipo IV, segundo a classificação de WASSEL, é classificada por EZAKI como tipo",
+    "alternativas": [
+      {"letra": "A", "texto": "I."},
+      {"letra": "B", "texto": "II."},
+      {"letra": "C", "texto": "III."},
+      {"letra": "D", "texto": "IV."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q025",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "Anatomia e Fisiologia Geral",
+    "ano": 2025,
+    "questao": "Na avaliação da contratura do músculo grácil, a manobra realizada em decúbito ventral é o teste",
+    "alternativas": [
+      {"letra": "A", "texto": "de PACE."},
+      {"letra": "B", "texto": "da bicicleta."},
+      {"letra": "C", "texto": "de PHELPS."},
+      {"letra": "D", "texto": "de McCARTHY."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q026",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "Patologias do Quadril",
+    "ano": 2025,
+    "questao": "Na via de acesso do quadril de WATSON-JONES, é necessária a dissecção do intervalo entre os músculos",
+    "alternativas": [
+      {"letra": "A", "texto": "glúteo mínimo e tensor da fáscia lata."},
+      {"letra": "B", "texto": "glúteo médio e tensor da fáscia lata."},
+      {"letra": "C", "texto": "glúteo mínimo e sartório."},
+      {"letra": "D", "texto": "glúteo médio e sartório."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q027",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "As fraturas por estresse em estágio III, segundo KAEDING & MILLER, são descritas como",
+    "alternativas": [
+      {"letra": "A", "texto": "reação de estresse sem fratura."},
+      {"letra": "B", "texto": "pseudoartrose."},
+      {"letra": "C", "texto": "sem desvio."},
+      {"letra": "D", "texto": "desviadas."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q028",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "Anatomia e Fisiologia Geral",
+    "ano": 2025,
+    "questao": "Na reconstrução anatômica dos ligamentos coracoclaviculares pela técnica de MAZZOCCA, a distância entre a superfície articular lateral da clavícula e o túnel para o ligamento conoide deve ser de",
+    "alternativas": [
+      {"letra": "A", "texto": "15 mm."},
+      {"letra": "B", "texto": "25 mm."},
+      {"letra": "C", "texto": "35 mm."},
+      {"letra": "D", "texto": "45 mm."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q029",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "Anatomia Geral",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, a estrutura apontada pela seta corresponde ao Fonte: NETTER, F. H. Atlas de anatomia humana. 7. ed. Rio de Janeiro: Elsevier,",
+    "alternativas": [
+      {"letra": "A", "texto": "recesso axilar"},
+      {"letra": "B", "texto": " lábio glenoidal."},
+      {"letra": "C", "texto": "músculo redondo menor."},
+      {"letra": "D", "texto": "ligamento coracoacromial."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/029.png"
+  },
+  {
+    "id": "Q030",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, a estrutura apontada pela seta corresponde ao músculo:",
+    "alternativas": [
+      {"letra": "A", "texto": "infraespinal."},
+      {"letra": "B", "texto": "subescapular."},
+      {"letra": "C", "texto": "redondo maior"},
+      {"letra": "D", "texto": "redondo menor."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/030.png"
+  },
+  {
+    "id": "Q031",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "Anatomia Geral",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, a estrutura apontada pela seta corresponde ao músculo:",
+    "alternativas": [
+      {"letra": "A", "texto": "braquial."},
+      {"letra": "B", "texto": "peitoral menor."},
+      {"letra": "C", "texto": "coracobraquial."},
+      {"letra": "D", "texto": "tríceps braquial."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/031.png"
+  },
+  {
+    "id": "Q032",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "Anatomia Geral",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, a estrutura apontada pela seta corresponde ao Fonte: NETTER, F. H. Atlas de anatomia humana. 7. ed. Rio de Janeiro: Elsevier,",
+    "alternativas": [
+      {"letra": "A", "texto": "pedículo de L4."},
+      {"letra": "B", "texto": "processo espinhoso de L4."},
+      {"letra": "C", "texto": "processo articular inferior de L4."},
+      {"letra": "D", "texto": "processo articular superior de L4."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/032.png"
+  },
+  {
+    "id": "Q033",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "Anatomia Geral",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, a estrutura apontada pela seta amarela corresponde:",
+    "alternativas": [
+      {"letra": "A", "texto": "à miofibrila."},
+      {"letra": "B", "texto": "à fibra muscular."},
+      {"letra": "C", "texto": "ao miofilamento."},
+      {"letra": "D", "texto": "ao fascículo muscular."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/033.png"
+  },
+  {
+    "id": "Q034",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A imagem a seguir evidencia a realização da manobra Fonte: MOTTA FILHO, G. R.; BARROS FILHO, T. E. P. Ortopedia e Traumatologia.",
+    "alternativas": [
+      {"letra": "A", "texto": "milking."},
+      {"letra": "B", "texto": "pivot shift."},
+      {"letra": "C", "texto": "moving valgus stress test."},
+      {"letra": "D", "texto": "valgus extension overload."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/034.png"
+  },
+  {
+    "id": "Q035",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "Patologias do Ombro e Cotovelo",
+    "ano": 2025,
+    "questao": "Na neuropatia compressiva do nervo cutâneo lateral do antebraço, os sintomas são exacerbados com o cotovelo em",
+    "alternativas": [
+      {"letra": "A", "texto": "flexão e pronação."},
+      {"letra": "B", "texto": "flexão e supinação."},
+      {"letra": "C", "texto": "extensão e pronação."},
+      {"letra": "D", "texto": "extensão e supinação."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q036",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "Escoliose",
+    "ano": 2025,
+    "questao": "Nas escolioses neuromusculares, a artrodese com a inclusão da pelve está usualmente indicada nos pacientes",
+    "alternativas": [
+      {"letra": "A", "texto": "deambuladores com obliquidade pélvica > 10 graus."},
+      {"letra": "B", "texto": "deambuladores com qualquer obliquidade pélvica."},
+      {"letra": "C", "texto": "não deambuladores com obliquidade pélvica > 15 graus."},
+      {"letra": "D", "texto": "não deambuladores com qualquer obliquidade pélvica."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q037",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "Patologias da Coluna",
+    "ano": 2025,
+    "questao": "Na classificação Thoracolumbar Injury Classification and Severity Score (TLICS), em relação à morfologia vertebral, a maior pontuação ocorre na fratura do tipo",
+    "alternativas": [
+      {"letra": "A", "texto": "distração."},
+      {"letra": "B", "texto": "compressão."},
+      {"letra": "C", "texto": "translação/rotação."},
+      {"letra": "D", "texto": "compressão com explosão."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q038",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "Artroplastia de Joelho",
+    "ano": 2025,
+    "questao": "Na artroplastia de joelho, a rotação do componente femoral, em relação ao eixo transepicondilar, deve ser",
+    "alternativas": [
+      {"letra": "A", "texto": "paralela."},
+      {"letra": "B", "texto": "perpendicular."},
+      {"letra": "C", "texto": "com 3 graus de rotação interna."},
+      {"letra": "D", "texto": "com 3 graus de rotação externa."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q039",
+    "tipo": "TARO",
+    "area": "Infecção",
+    "subtema": "Artroplastia de Joelho",
+    "ano": 2025,
+    "questao": "Na infecção aguda pós artroplastia de joelho, a cultura positiva para S. aureus é uma",
+    "alternativas": [
+      {"letra": "A", "texto": "contraindicação de revisão em dois tempos."},
+      {"letra": "B", "texto": "indicação para desbridamento com retenção da prótese."},
+      {"letra": "C", "texto": "contraindicação relativa para desbridamento com retenção da prótese."},
+      {"letra": "D", "texto": "contraindicação absoluta para desbridamento com retenção da prótese."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q040",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "Lesões LCP",
+    "ano": 2025,
+    "questao": "Em pacientes com insuficiência crônica do ligamento cruzado posterior do joelho, a progressão das alterações articulares degenerativas ocorre no compartimento",
+    "alternativas": [
+      {"letra": "A", "texto": "patelofemoral, isoladamente."},
+      {"letra": "B", "texto": "tibiofemoral medial, isoladamente."},
+      {"letra": "C", "texto": "patelofemoral e tibiofemoral lateral."},
+      {"letra": "D", "texto": "patelofemoral e tibiofemoral medial."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q041",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "Osteocondrite Dissecante",
+    "ano": 2025,
+    "questao": "Na osteocondrite dissecante do joelho, o acometimento da patela tem prognóstico",
+    "alternativas": [
+      {"letra": "A", "texto": "pior que o acometimento do côndilo femoral e acomete, mais frequentemente, o polo inferior."},
+      {"letra": "B", "texto": "pior que o acometimento do côndilo femoral e acomete, mais frequentemente, o polo superior."},
+      {"letra": "C", "texto": "melhor que o acometimento do côndilo femoral e acomete, mais frequentemente, o polo inferior."},
+      {"letra": "D", "texto": "melhor que o acometimento do côndilo femoral e acomete, mais frequentemente, o polo superior."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q042",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "Patologias do Joelho",
+    "ano": 2025,
+    "questao": "Na avaliação clínica de paciente com lesão ligamentar do joelho, o teste da rotação externa tibial com resultado positivo em 30 e 90 graus de flexão indica lesão",
+    "alternativas": [
+      {"letra": "A", "texto": "isolada do canto posterolateral."},
+      {"letra": "B", "texto": "isolada do ligamento cruzado posterior."},
+      {"letra": "C", "texto": "combinada do ligamento cruzado anterior e do canto posterolateral."},
+      {"letra": "D", "texto": "combinada do ligamento cruzado posterior e do canto posterolateral."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q043",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "Patologias do Joelho",
+    "ano": 2025,
+    "questao": "O joelho tem características de articulação do tipo",
+    "alternativas": [
+      {"letra": "A", "texto": "gínglimo, permitindo apenas flexão e extensão."},
+      {"letra": "B", "texto": "trocoide, permitindo apenas movimentos rotacionais."},
+      {"letra": "C", "texto": "gínglimo e trocoide, restringindo movimentos rotacionais em extensão completa."},
+      {"letra": "D", "texto": "gínglimo e trocoide, permitindo movimentos rotacionais em toda amplitude de movimento."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q044",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A lesão meniscal em rampa corresponde a uma",
+    "alternativas": [
+      {"letra": "A", "texto": "lesão radial próximo à inserção posterior do menisco lateral, quase sempre associada à lesão do ligamento cruzado anterior."},
+      {"letra": "B", "texto": "lesão radial próximo à inserção posterior do menisco medial, quase sempre associada a alterações degenerativas da articulação."},
+      {"letra": "C", "texto": "separação da junção meniscocapsular posterior do menisco medial, quase sempre associada à lesão do ligamento cruzado anterior."},
+      {"letra": "D", "texto": "separação da junção meniscocapsular posterior do menisco lateral, quase sempre associada a alterações degenerativas da articulação."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q045",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "Patologias Pediátricas",
+    "ano": 2025,
+    "questao": "As fraturas que apresentam alta especificidade para o diagnóstico de lesões não acidentais na criança são as fraturas",
+    "alternativas": [
+      {"letra": "A", "texto": "epifisárias em alça de balde e as fraturas anteriores das costelas."},
+      {"letra": "B", "texto": "epifisárias em alça de balde e as fraturas posteriores das costelas."},
+      {"letra": "C", "texto": "metafisárias em alça de balde e as fraturas anteriores das costelas."},
+      {"letra": "D", "texto": "metafisárias em alça de balde e as fraturas posteriores das costelas."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q046",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "Osteogênese Imperfeita",
+    "ano": 2025,
+    "questao": "Na osteogênese imperfeita, o excesso de calo ósseo produzido após fratura ou osteotomia está associado ao defeito no gene Fonte: WEINSTEIN, S. L.; FLYNN, J. M. Lovell and Winter’s pediatric orthopaedics. 8. ed. Philadelphia: Lippincott Williams & Wilkins, 2021.",
+    "alternativas": [
+      {"letra": "A", "texto": "WNT1."},
+      {"letra": "B", "texto": "IFITM5."},
+      {"letra": "C", "texto": "LEPRE1."},
+      {"letra": "D", "texto": "COL1A1."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/046.png"
+  },
+  {
+    "id": "Q047",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "Enxertos Ósseos",
+    "ano": 2025,
+    "questao": "Na retirada de enxerto ósseo do ílio anterior, os nervos em risco são:",
+    "alternativas": [
+      {"letra": "A", "texto": "glúteo superior e ilioinguinal"},
+      {"letra": "B", "texto": "glúteo superior e cluneal superior"},
+      {"letra": "C", "texto": "cutâneo femoral lateral e ilioinguinal."},
+      {"letra": "D", "texto": "cutâneo femoral lateral e cluneal superior."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q048",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A marcha anserina é observada na",
+    "alternativas": [
+      {"letra": "A", "texto": "doença de PARKINSON, e o paciente apresenta uma hipercifose torácica."},
+      {"letra": "B", "texto": "doença de PARKINSON, e o paciente apresenta uma hiperlordose lombar."},
+      {"letra": "C", "texto": "distrofia muscular de DUCHENNE, e o paciente apresenta uma hipercifose torácica."},
+      {"letra": "D", "texto": "distrofia muscular de DUCHENNE, e o paciente apresenta uma hiperlordose"}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q049",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Em uma criança com desenvolvimento normal, em que a radiografia demonstra o início da ossificação da cabeça do fêmur, é esperado que ela tenha adquirido recentemente a capacidade de",
+    "alternativas": [
+      {"letra": "A", "texto": "andar sem apoio."},
+      {"letra": "B", "texto": "subir escadas com apoio."},
+      {"letra": "C", "texto": "sustentar a cabeça e o tronco em decúbito ventral."},
+      {"letra": "D", "texto": "levantar-se em ortostatismo com apoio dos braços."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q050",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A fratura da apófise posterior do corpo vertebral no esqueleto imaturo ocorre tipicamente em",
+    "alternativas": [
+      {"letra": "A", "texto": "recém-nascidos."},
+      {"letra": "B", "texto": "crianças entre 2 e 4 anos de idade."},
+      {"letra": "C", "texto": "crianças entre 5 e 9 anos de idade."},
+      {"letra": "D", "texto": "adolescentes."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q051",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na fratura dos ossos do antebraço em uma criança, a avaliação rotacional deve ser feita por meio da observação da relação entre a",
+    "alternativas": [
+      {"letra": "A", "texto": "fise proximal do rádio e a eminência tenar."},
+      {"letra": "B", "texto": "tuberosidade do bíceps e a eminência tenar."},
+      {"letra": "C", "texto": "fise proximal do rádio e a tabaqueira anatômica."},
+      {"letra": "D", "texto": "tuberosidade do bíceps e a tabaqueira anatômica."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q052",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, a estrutura anatômica apontada pela seta é o músculo",
+    "alternativas": [
+      {"letra": "A", "texto": "supinador."},
+      {"letra": "B", "texto": "braquiorradial."},
+      {"letra": "C", "texto": "pronador redondo."},
+      {"letra": "D", "texto": "pronador quadrado."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/052.png"
+  },
+  {
+    "id": "Q053",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, a estrutura anatômica apontada pela seta é o",
+    "alternativas": [
+      {"letra": "A", "texto": "fascículo cuneiforme."},
+      {"letra": "B", "texto": "trato vestíbulo-espinal."},
+      {"letra": "C", "texto": "trato espinotalâmico anterior."},
+      {"letra": "D", "texto": "trato corticoespinhal anterior."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/053.png"
+  },
+  {
+    "id": "Q054",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Deve-se suspeitar de fratura luxação tipo GALEAZZI quando ocorre fratura da extremidade distal metafisária",
+    "alternativas": [
+      {"letra": "A", "texto": "da ulna e do estiloide do rádio."},
+      {"letra": "B", "texto": "do rádio e do estiloide da ulna."},
+      {"letra": "C", "texto": "da ulna e da extremidade distal metafisária do rádio."},
+      {"letra": "D", "texto": "do rádio e da extremidade distal metafisária da ulna."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q055",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "As fraturas da tuberosidade da tíbia classificadas como tipo III por WATSON-JONES correspondem a uma fratura SALTER-HARRIS tipo",
+    "alternativas": [
+      {"letra": "A", "texto": "I."},
+      {"letra": "B", "texto": "II."},
+      {"letra": "C", "texto": "III."},
+      {"letra": "D", "texto": "IV."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q056",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Segundo a classificação de DELBET para as fraturas do fêmur proximal em crianças, o tipo mais comum é o tipo",
+    "alternativas": [
+      {"letra": "A", "texto": "I."},
+      {"letra": "B", "texto": "II."},
+      {"letra": "C", "texto": "III."},
+      {"letra": "D", "texto": "IV."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q057",
+    "tipo": "TARO",
+    "area": "Pé e Tornozelo",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A artropatia de CHARCOT é",
+    "alternativas": [
+      {"letra": "A", "texto": "uma artropatia metabólica."},
+      {"letra": "B", "texto": "um processo neurodegenerativo."},
+      {"letra": "C", "texto": "decorrente de microtraumas de repetição."},
+      {"letra": "D", "texto": "decorrente de uma alteração vascular periférica."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q058",
+    "tipo": "TARO",
+    "area": "Pé e Tornozelo",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Paciente de 45 anos, sofreu uma fratura do tornozelo AO 44B2.3. Após melhora do envelope de partes moles, optou-se pelo tratamento cirúrgico definitivo. Com base na imagem a seguir, as duas principais vias de acesso para reduzir e fixar todas as fraturas são  Fonte: TORNETTA III, P.; RICCI, W. M.; OSTRUM, R. F.; McKEE, M. D.; OLIVERE B. J.; RIDDER, V. A. Rockwood and Green’s Fractures in Adults. 10 ed. Philadelphia: Wolters Kluwer, 2024.",
+    "alternativas": [
+      {"letra": "A", "texto": "B e F."},
+      {"letra": "B", "texto": "B e C."},
+      {"letra": "C", "texto": "C e E."},
+      {"letra": "D", "texto": "D e F."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q059",
+    "tipo": "TARO",
+    "area": "Pé e Tornozelo",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Nas deformidades dos dedos dos pés, o “dedo em garra” diferencia-se do “dedo em martelo” por apresentar",
+    "alternativas": [
+      {"letra": "A", "texto": "rigidez articular."},
+      {"letra": "B", "texto": "calosidade dorsal."},
+      {"letra": "C", "texto": "flexão da interfalangeana distal."},
+      {"letra": "D", "texto": "extensão da metatarsofalangeana."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q060",
+    "tipo": "TARO",
+    "area": "Pé e Tornozelo",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na via de acesso ao seio do tarso para tratamento das fraturas do calcâneo, a estrutura anatômica que deve ser seccionada para melhor exposição da subtalar é o",
+    "alternativas": [
+      {"letra": "A", "texto": "retináculo dos extensores."},
+      {"letra": "B", "texto": "ligamento calcaneofibular."},
+      {"letra": "C", "texto": "ligamento talofibular anterior."},
+      {"letra": "D", "texto": "músculo extensor curto dos dedos."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q061",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A complicação mais comum das fraturas fisárias do tornozelo é a",
+    "alternativas": [
+      {"letra": "A", "texto": "consolidação viciosa."},
+      {"letra": "B", "texto": "sinostose tibiofibular distal."},
+      {"letra": "C", "texto": "deformidade em valgo do tornozelo."},
+      {"letra": "D", "texto": "parada do crescimento simétrico da fise."}
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q062",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A zona hipovascular do tendão quadríceps, onde acontece a maioria das rupturas espontâneas, está localizada",
+    "alternativas": [
+      {"letra": "A", "texto": "a menos de 1 centímetro do polo superior da patela."},
+      {"letra": "B", "texto": "1 a 2 centímetros proximal ao polo superior da patela."},
+      {"letra": "C", "texto": "3 a 4 centímetros proximal ao polo superior da patela."},
+      {"letra": "D", "texto": "5 a 6 centímetros proximal ao polo superior da patela."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q063",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na espondilolistese, conforme a classificação de WILTSE, NEWMAN e MACNAB, o tipo IV (traumático) corresponde à fratura",
+    "alternativas": [
+      {"letra": "A", "texto": "do pedículo e da faceta."},
+      {"letra": "B", "texto": "da pars interarticularis e da faceta."},
+      {"letra": "C", "texto": "da lâmina e da pars interarticularis."},
+      {"letra": "D", "texto": "da pars interarticularis e do pedículo."}
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q064",
+    "tipo": "TARO",
+    "area": "Pé e Tornozelo",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Nas roturas crônicas do tendão de Aquiles com até três meses de evolução e com defeito (gap) superior a 3 centímetros, recomenda-se a realização de",
+    "alternativas": [
+      {"letra": "A", "texto": "tenorrafia percutânea."},
+      {"letra": "B", "texto": "tenorrafia direta dos cotos."},
+      {"letra": "C", "texto": "tenoplastia com tendões flexores."},
+      {"letra": "D", "texto": "tratamento conservador com bota por seis semanas."}
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q065",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na imagem a seguir, as estruturas assinaladas pela seta no canal adutor correspondem  Fonte: NETTER, F. H. Atlas de anatomia humana. 7. ed. Rio de Janeiro: Elsevier, 2019.",
+    "alternativas": [
+      {"letra": "A", "texto": "ao nervo safeno e à artéria femoral."},
+      {"letra": "B", "texto": "ao nervo femoral e à artéria femoral."},
+      {"letra": "C", "texto": "ao nervo safeno e à veia safena magna."},
+      {"letra": "D", "texto": "ao nervo femoral e à veia safena magna."}
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/065.png"
+  },
+{
+    "id": "Q066",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A estrutura assinalada na imagem a seguir recebe as inserções dos músculos  Fonte: NETTER, F. H. Atlas de anatomia humana. 7. ed. Rio de Janeiro: Elsevier, 2019.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "glúteo médio e vasto lateral."
+      },
+      {
+        "letra": "B",
+        "texto": "glúteo médio e tensor da fáscia lata."
+      },
+      {
+        "letra": "C",
+        "texto": "glúteo máximo e vasto lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "glúteo máximo e tensor da fáscia lata."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/066.png"
+  },
+  {
+    "id": "Q067",
+    "tipo": "TARO",
+    "area": "Infecção",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "No acometimento osteoarticular pela brucelose, a artrite mais comum é no",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "joelho."
+      },
+      {
+        "letra": "B",
+        "texto": "punho."
+      },
+      {
+        "letra": "C",
+        "texto": "quadril."
+      },
+      {
+        "letra": "D",
+        "texto": "tornozelo."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q068",
+    "tipo": "TARO",
+    "area": "Ortopedia Pediátrica",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A deformidade identificada na radiografia a seguir está associada a  Fonte: HERRING, J. A. Tachdjian’s pediatric orthopaedics. 6. ed. Philadelphia: Elsevier, 2022.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hemimelia fibular."
+      },
+      {
+        "letra": "B",
+        "texto": "pé torto congênito."
+      },
+      {
+        "letra": "C",
+        "texto": "pé calcâneo valgo."
+      },
+      {
+        "letra": "D",
+        "texto": "defeito de consolidação após fratura."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/068.png"
+  },
+  {
+    "id": "Q069",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Em relação ao tratamento cirúrgico da doença de KIENBÖCK em pacientes com ulna minus, a técnica cirúrgica de nivelamento articular consiste no encurtamento do rádio em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 mm."
+      },
+      {
+        "letra": "B",
+        "texto": "2 mm."
+      },
+      {
+        "letra": "C",
+        "texto": "3 mm."
+      },
+      {
+        "letra": "D",
+        "texto": "4 mm."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q070",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "No tratamento cirúrgico da mão reumatoide para correção do desvio ulnar dos dedos, realiza-se a transferência com alinhamento dos tendões extensores, associada ao rebalanceamento dos intrínsecos, conforme técnica descrita por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FLATT."
+      },
+      {
+        "letra": "B",
+        "texto": "BUNNELL."
+      },
+      {
+        "letra": "C",
+        "texto": "KLEINERT."
+      },
+      {
+        "letra": "D",
+        "texto": "SWANSON."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q071",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Em relação à biomecânica do punho, o componente mais espesso e resistente do ligamento semilunopiramidal é a sua porção",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "volar."
+      },
+      {
+        "letra": "B",
+        "texto": "distal."
+      },
+      {
+        "letra": "C",
+        "texto": "dorsal."
+      },
+      {
+        "letra": "D",
+        "texto": "proximal."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q072",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na semiologia da mão, a manobra clínica que corrige a garra ulnar demonstrada na imagem a seguir é descrita por  Fonte: MOTTA FILHO, G. R.; BARROS FILHO, T. E. P. Ortopedia e Traumatologia. 1. ed. Rio de Janeiro: Elsevier, 2018.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "JEANNE."
+      },
+      {
+        "letra": "B",
+        "texto": "BOUVIER."
+      },
+      {
+        "letra": "C",
+        "texto": "DUCHENNE."
+      },
+      {
+        "letra": "D",
+        "texto": "ANDRE-THOMAS."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/072.png"
+  },
+  {
+    "id": "Q073",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Em relação à cobertura cutânea do polegar, o retalho demonstrado na imagem a seguir foi descrito por  Fonte: MOTTA FILHO, G. R.; BARROS FILHO, T. E. P. Ortopedia e Traumatologia. 1. ed. Rio de Janeiro: Elsevier, 2018.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O’BRIEN."
+      },
+      {
+        "letra": "B",
+        "texto": "MOBERG."
+      },
+      {
+        "letra": "C",
+        "texto": "FOUCHER."
+      },
+      {
+        "letra": "D",
+        "texto": "TRANQUILLI."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/073.png"
+  },
+  {
+    "id": "Q074",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Em relação ao tratamento cirúrgico do dedo em martelo crônico, o procedimento de tenotomia da aleta central, demonstrado na imagem a seguir, foi descrito por  Fonte: AZAR, F. M.; BEATY, J. H. Campbell’s operative orthopaedics. 14. ed. Philadelphia: Elsevier, 2021.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "AICHE."
+      },
+      {
+        "letra": "B",
+        "texto": "LITTLER."
+      },
+      {
+        "letra": "C",
+        "texto": "FOWLER."
+      },
+      {
+        "letra": "D",
+        "texto": "BROOKS-GRANER."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/074.png"
+  },
+  {
+    "id": "Q075",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "O valor normal do ângulo da gota de lágrima (teardrop angle) da extremidade distal do rádio é de, aproximadamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 graus."
+      },
+      {
+        "letra": "B",
+        "texto": "55 graus."
+      },
+      {
+        "letra": "C",
+        "texto": "70 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "85 graus."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q076",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A técnica de transferência nervosa do ramo motor do ulnar para o ramo motor do músculo bíceps, utilizada no tratamento cirúrgico da lesão traumática do plexo braquial em adulto, foi descrita por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "OBERLIN."
+      },
+      {
+        "letra": "B",
+        "texto": "BERTELLI."
+      },
+      {
+        "letra": "C",
+        "texto": "ZANCOLLI."
+      },
+      {
+        "letra": "D",
+        "texto": "MACKINNON."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q077",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A deformidade característica encontrada no segmento proximal da fratura subtrocantérica é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "flexão, adução e rotação medial."
+      },
+      {
+        "letra": "B",
+        "texto": "flexão, abdução e rotação lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "extensão, adução e rotação lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "extensão, abdução e rotação medial."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q078",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A lesão da artéria poplítea é mais comum na luxação do joelho",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lateral."
+      },
+      {
+        "letra": "B",
+        "texto": "medial."
+      },
+      {
+        "letra": "C",
+        "texto": "anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "posterior."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q079",
+    "tipo": "TARO",
+    "area": "Quadril",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "As taxas de mortalidade associadas à fratura do anel pélvico por compressão anteroposterior e compressão lateral, ambas classificadas como tipo III segundo YOUNG e BURGESS, são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20% e 10%."
+      },
+      {
+        "letra": "B",
+        "texto": "40% e 10%."
+      },
+      {
+        "letra": "C",
+        "texto": "20% e 25%."
+      },
+      {
+        "letra": "D",
+        "texto": "40% e 25%."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q080",
+    "tipo": "TARO",
+    "area": "Tumores",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na osteoporose, no exame de densitometria óssea (DXA), o sítio periférico utilizado em substituição ao fêmur proximal e à coluna lombar é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "calcâneo dominante."
+      },
+      {
+        "letra": "B",
+        "texto": "antebraço dominante."
+      },
+      {
+        "letra": "C",
+        "texto": "calcâneo não dominante."
+      },
+      {
+        "letra": "D",
+        "texto": "antebraço não dominante."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q081",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A fratura de MONTEGGIA que ocorre quase exclusivamente em adultos, sendo rara em crianças, é a classificada por BADO como tipo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1."
+      },
+      {
+        "letra": "B",
+        "texto": "2."
+      },
+      {
+        "letra": "C",
+        "texto": "3."
+      },
+      {
+        "letra": "D",
+        "texto": "4."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q082",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "As fraturas parciais da cabeça radial acometem mais frequentemente seu quadrante",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anterolateral."
+      },
+      {
+        "letra": "B",
+        "texto": "anteromedial."
+      },
+      {
+        "letra": "C",
+        "texto": "posterolateral."
+      },
+      {
+        "letra": "D",
+        "texto": "posteromedial."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q083",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A principal causa de cúbito varo após fratura supracondilar do úmero em crianças é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crescimento assimétrico por lesão fisária da tróclea."
+      },
+      {
+        "letra": "B",
+        "texto": "crescimento assimétrico por osteonecrose da tróclea."
+      },
+      {
+        "letra": "C",
+        "texto": "consolidação viciosa por desvio em varo da epífise distal do úmero."
+      },
+      {
+        "letra": "D",
+        "texto": "consolidação viciosa por desvio medial e rotação da epífise umeral distal."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q084",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A fratura da faceta anteromedial do processo coronoide é causada por compressão axial associada a forças em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "varo e pronação."
+      },
+      {
+        "letra": "B",
+        "texto": "varo e supinação."
+      },
+      {
+        "letra": "C",
+        "texto": "valgo e pronação."
+      },
+      {
+        "letra": "D",
+        "texto": "valgo e supinação."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q085",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A lesão neurológica mais comum na luxação simples do cotovelo é a do",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ulnar."
+      },
+      {
+        "letra": "B",
+        "texto": "radial."
+      },
+      {
+        "letra": "C",
+        "texto": "mediano."
+      },
+      {
+        "letra": "D",
+        "texto": "interósseo posterior."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q086",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na paralisia obstétrica, a criança com síndrome de CLAUDE-BERNARDHORNER apresenta-se com enoftalmia e",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anidrose facial, com bom prognóstico."
+      },
+      {
+        "letra": "B",
+        "texto": "anidrose facial, com mau prognóstico."
+      },
+      {
+        "letra": "C",
+        "texto": "hiperidrose facial, com mau prognóstico."
+      },
+      {
+        "letra": "D",
+        "texto": "hiperidrose facial, com bom prognóstico."
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q087",
+    "tipo": "TARO",
+    "area": "Pé e Tornozelo",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na biomecânica do pé e do tornozelo durante a marcha normal, a fase de médio apoio é caracterizada por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "relaxamento do músculo tibial posterior e eversão da subtalar."
+      },
+      {
+        "letra": "B",
+        "texto": "relaxamento do músculo tibial posterior e inversão da subtalar."
+      },
+      {
+        "letra": "C",
+        "texto": "contração excêntrica do músculo tibial posterior e eversão da subtalar."
+      },
+      {
+        "letra": "D",
+        "texto": "contração excêntrica do músculo tibial posterior e inversão da subtalar."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q088",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na fratura vertebral por insuficiência tratada com cimentação percutânea, o extravasamento do cimento ocorre com maior frequência em direção",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ao espaço discal."
+      },
+      {
+        "letra": "B",
+        "texto": "ao espaço epidural."
+      },
+      {
+        "letra": "C",
+        "texto": "à região pré-vertebral."
+      },
+      {
+        "letra": "D",
+        "texto": "à região paravertebral."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q089",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A história natural da degeneração do disco intervertebral é dividida em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "três estágios, que, sequencialmente, são: instabilidade, disfunção e estabilização."
+      },
+      {
+        "letra": "B",
+        "texto": "três estágios, que, sequencialmente, são: disfunção, instabilidade e estabilização."
+      },
+      {
+        "letra": "C",
+        "texto": "quatro estágios, que, sequencialmente, são: degeneração, instabilidade, disfunção e estabilização."
+      },
+      {
+        "letra": "D",
+        "texto": "quatro estágios, que, sequencialmente, são: degeneração, disfunção,"
+      }
+    ],
+    "gabarito": "B",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q090",
+    "tipo": "TARO",
+    "area": "Infecção",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Paciente masculino, 59 anos, admitido no pronto-socorro com história de dor lombar há sete dias. Ao exame, encontra-se afebril e sem déficits neurológicos. Exames de laboratório: 10.800 leucócitos/mm³, velocidade de hemossedimentação de 40 mm/h (valor normal: 0-20 mm/h) e proteína C reativa de 15 mg/L (valor normal: 0-5 mg/L). Exames de imagem (radiografia e ressonância magnética) sugestivos de espondilodiscite L4L5, sem sinais de instabilidade. Hemocultura positiva para Staphylococcus aureus sensível à meticilina. A conduta mais adequada para este caso é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "biópsia guiada por tomografia."
+      },
+      {
+        "letra": "B",
+        "texto": "desbridamento via anterior e biópsia sem instrumentação."
+      },
+      {
+        "letra": "C",
+        "texto": "antibioticoterapia venosa conforme organismo identificado."
+      },
+      {
+        "letra": "D",
+        "texto": "desbridamento via posterior, biópsia e estabilização cirúrgica."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q091",
+    "tipo": "TARO",
+    "area": "Coluna",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na semiologia da coluna, a manobra na qual a unha do dedo médio é resvalada, desencadeando a flexão da falange distal do indicador e do polegar, é conhecida como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sinal de HOFFMAN."
+      },
+      {
+        "letra": "B",
+        "texto": "sinal de LHERMITTE."
+      },
+      {
+        "letra": "C",
+        "texto": "teste de SPURLING."
+      },
+      {
+        "letra": "D",
+        "texto": "sinal de OPPENHEIM."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q092",
+    "tipo": "TARO",
+    "area": "Ombro",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Na luxação esternoclavicular posterior em crianças, a manobra de redução consiste em manter o paciente em posição supina, com a colocação de coxim",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abaixo do ombro, associada à flexão do ombro do lado acometido."
+      },
+      {
+        "letra": "B",
+        "texto": "entre as escápulas, associada à flexão do ombro do lado acometido."
+      },
+      {
+        "letra": "C",
+        "texto": "abaixo do ombro, associada à tração do membro superior do lado acometido."
+      },
+      {
+        "letra": "D",
+        "texto": "entre as escápulas, associada à tração do membro superior do lado"
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q093",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Em pacientes com agenesia de punho e mão, é possível a realização do procedimento de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FOUCHER, com a fusão do rádio e da ulna."
+      },
+      {
+        "letra": "B",
+        "texto": "KRUKENBERG, com a fusão do rádio e da ulna."
+      },
+      {
+        "letra": "C",
+        "texto": "FOUCHER, com a separação do rádio e da ulna."
+      },
+      {
+        "letra": "D",
+        "texto": "KRUKENBERG, com a separação do rádio e da ulna."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q094",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A imagem a seguir corresponde a uma ressonância magnética do polegar com evidência de lesão ligamentar de  Fonte: LEITE, N. M.; FALOPPA, F. Propedêutica Ortopédica e Traumatológica. 1. ed. Porto Alegre: Artmed, 2013.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HIBBS."
+      },
+      {
+        "letra": "B",
+        "texto": "AICHE."
+      },
+      {
+        "letra": "C",
+        "texto": "STENER."
+      },
+      {
+        "letra": "D",
+        "texto": "GERBER."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/094.png"
+  },
+  {
+    "id": "Q095",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A imagem a seguir corresponde a uma ressonância magnética do punho com evidência de lesão da fibrocartilagem triangular na sua porção  Fonte: LEITE, N. M.; FALOPPA, F. Propedêutica Ortopédica e Traumatológica. 1. ed. Porto Alegre: Artmed, 2013.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "radial, visualizada no plano coronal ponderado em T1."
+      },
+      {
+        "letra": "B",
+        "texto": "central, visualizada no plano coronal ponderado em T2."
+      },
+      {
+        "letra": "C",
+        "texto": "radial, visualizada no plano coronal ponderado em T2."
+      },
+      {
+        "letra": "D",
+        "texto": "central, visualizada no plano coronal ponderado em T1."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/095.png"
+  },
+  {
+    "id": "Q096",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A estrutura anatômica assinalada na imagem a seguir corresponde ao músculo  Fonte: Arquivo CET.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "interósseo dorsal."
+      },
+      {
+        "letra": "B",
+        "texto": "adutor do polegar."
+      },
+      {
+        "letra": "C",
+        "texto": "interósseo palmar."
+      },
+      {
+        "letra": "D",
+        "texto": "abdutor do polegar."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/096.png"
+  },
+  {
+    "id": "Q097",
+    "tipo": "TARO",
+    "area": "Mão",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "A estrutura anatômica assinalada na imagem a seguir corresponde ao  Fonte: Arquivo CET.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lacertus fibrosus."
+      },
+      {
+        "letra": "B",
+        "texto": "ligamento de OSBORNE."
+      },
+      {
+        "letra": "C",
+        "texto": "ligamento de STRUTHERS."
+      },
+      {
+        "letra": "D",
+        "texto": "arco do flexor superficial."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/097.png"
+  },
+  {
+    "id": "Q098",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Em relação à propedêutica por imagem do joelho, a imagem a seguir corresponde à incidência radiográfica de  \fFonte: LEITE, N. M.; FALOPPA, F. Propedêutica Ortopédica e Traumatológica. 1. ed. Porto Alegre: Artmed, 2013.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "INSALL."
+      },
+      {
+        "letra": "B",
+        "texto": "MERCHANT."
+      },
+      {
+        "letra": "C",
+        "texto": "HUGHSTON."
+      },
+      {
+        "letra": "D",
+        "texto": "ROSENBERG."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/images/098.png"
+  },
+  {
+    "id": "Q099",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Uma revisão sistemática tem seu nível de evidência ranqueado segundo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a quantidade de metanálises analisadas."
+      },
+      {
+        "letra": "B",
+        "texto": "o grau de heterogeneidade da metanálise."
+      },
+      {
+        "letra": "C",
+        "texto": "a quantidade de estudos de coorte analisados."
+      },
+      {
+        "letra": "D",
+        "texto": "o nível de evidência dos estudos que a compõem."
+      }
+    ],
+    "gabarito": "D",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q100",
+    "tipo": "TARO",
+    "area": "Joelho",
+    "subtema": "",
+    "ano": 2025,
+    "questao": "Para a avaliação do grau de certeza da evidência em um estudo, utiliza-se a ferramenta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GRADE."
+      },
+      {
+        "letra": "B",
+        "texto": "PRISMA."
+      },
+      {
+        "letra": "C",
+        "texto": "AMSTAR."
+      },
+      {
+        "letra": "D",
+        "texto": "CONSORT."
+      }
+    ],
+    "gabarito": "A",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  }
+]

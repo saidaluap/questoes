@@ -1,0 +1,24 @@
+{
+  "name": "backend-unificado",
+  "version": "1.0.0",
+  "description": "Backend unificado com funcionalidades de login e questões",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server_updated.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "react-countup": "^6.5.3",
+    "sqlite3": "^5.1.7",
+    "xlsx": "^0.18.5"
+  }
+}

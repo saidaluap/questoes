@@ -1,0 +1,3012 @@
+[
+  {
+    "id": "Q001 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "Oncologia",
+    "subtema": "Geral",
+    "ano": 2024,
+    "questao": "O tumor ósseo que mais frequentemente acomete os elementos anteriores da\ncoluna é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "osteocondroma."
+      },
+      {
+        "letra": "B",
+        "texto": "osteoma osteoide."
+      },
+      {
+        "letra": "C",
+        "texto": "tumor de células gigantes."
+      },
+      {
+        "letra": "D",
+        "texto": "cisto ósseo aneurismático."
+      }
+    ],
+    "gabarito": "C",
+    "comentario": "",
+    "imagemJustificativa": "/imagemjustificativa/teot2024/001imagemjustificativateot2024",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q002 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "Joelho",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A doença de OSGOOD-SCHLATTER tem forte associação com patela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alta e alongamento do reto femoral."
+      },
+      {
+        "letra": "B",
+        "texto": "alta e encurtamento do reto femoral."
+      },
+      {
+        "letra": "C",
+        "texto": "baixa e alongamento do reto femoral."
+      },
+      {
+        "letra": "D",
+        "texto": "baixa e encurtamento do reto femoral."
+      }
+    ],
+    "gabarito": "alta e encurtamento do reto femoral",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q003 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A estenose de canal cervical associada à cervicobraquialgia tem como um dos\ndiagnósticos diferenciais o tumor de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "MERKEL."
+      },
+      {
+        "letra": "B",
+        "texto": "WARTHIN."
+      },
+      {
+        "letra": "C",
+        "texto": "PANCOAST."
+      },
+      {
+        "letra": "D",
+        "texto": "KRUKENBERG."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q004 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na insuficiência ligamentar da articulação subtalar, a incidência radiográfica\nque pode demonstrar essa instabilidade é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "perfil com gaveta posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "de rotação externa com encaixe gravitacional."
+      },
+      {
+        "letra": "C",
+        "texto": "anteroposterior com carga e rotação interna de 10 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "do estresse subtalar em inversão (incidência de BRODEN)."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q005 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento da doença de BLOUNT, a órtese deve ser indicada até a idade\nde",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 anos e usada por até um ano."
+      },
+      {
+        "letra": "B",
+        "texto": "6 anos e usada por até um ano."
+      },
+      {
+        "letra": "C",
+        "texto": "3 anos e usada até a maturidade esquelética."
+      },
+      {
+        "letra": "D",
+        "texto": "6 anos e usada até a maturidade esquelética."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q006 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento do pé torto congênito bilateral, a órtese de abdução (DENIS\nBROWNE) deve ser posicionada com os pés em rotação lateral de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50 graus."
+      },
+      {
+        "letra": "B",
+        "texto": "60 graus."
+      },
+      {
+        "letra": "C",
+        "texto": "70 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "80 graus."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q007 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na artroscopia do quadril, o primeiro portal a ser realizado na técnica \"de\ndentro para fora\" (inside-out) é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "anterolateral."
+      },
+      {
+        "letra": "C",
+        "texto": "posterolateral."
+      },
+      {
+        "letra": "D",
+        "texto": "anterior acessório."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q008 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A fratura por estresse do colo femoral no adulto jovem ocorre mais comumente\nem mulheres devido",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ao sedentarismo e à obesidade, e nos homens devido ao etilismo e ao\ntabagismo."
+      },
+      {
+        "letra": "B",
+        "texto": "ao sedentarismo e à obesidade, e nos homens devido ao esforço físico intenso\nde repetição."
+      },
+      {
+        "letra": "C",
+        "texto": "à anorexia nervosa, osteoporose e amenorreia, e nos homens devido ao\netilismo e ao tabagismo."
+      },
+      {
+        "letra": "D",
+        "texto": "à anorexia nervosa, osteoporose e amenorreia, e nos homens devido ao\nesforço físico intenso de repetição."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q009 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "De acordo com a escala de MIRELS para tratamento de fratura iminente em\nossos longos, a presença de lesão tumoral na extremidade distal do fêmur\nrecebe",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 ponto."
+      },
+      {
+        "letra": "B",
+        "texto": "2 pontos."
+      },
+      {
+        "letra": "C",
+        "texto": "3 pontos."
+      },
+      {
+        "letra": "D",
+        "texto": "4 pontos."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q010 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na instabilidade rotatória posteromedial do cotovelo, além da força axial, o\nmecanismo de lesão envolve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pronação e varo."
+      },
+      {
+        "letra": "B",
+        "texto": "pronação e valgo."
+      },
+      {
+        "letra": "C",
+        "texto": "supinação e varo."
+      },
+      {
+        "letra": "D",
+        "texto": "supinação e valgo.\nProva Escrita: Verde – Pág. 4"
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q011 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento da fratura do sacro com fixação percutânea utilizando parafuso\niliossacral, a estrutura neurológica em risco é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a raiz de L4."
+      },
+      {
+        "letra": "B",
+        "texto": "a raiz de L5."
+      },
+      {
+        "letra": "C",
+        "texto": "o nervo femoral."
+      },
+      {
+        "letra": "D",
+        "texto": "o nervo ciático."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q012 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A sinovite vilonodular pigmentada acomete mais frequentemente o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ombro."
+      },
+      {
+        "letra": "B",
+        "texto": "quadril."
+      },
+      {
+        "letra": "C",
+        "texto": "joelho."
+      },
+      {
+        "letra": "D",
+        "texto": "tornozelo."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q013 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na avaliação radiográfica da artrose do quadril, o tipo C de DORR apresenta\nmaior perda óssea nas corticais",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "medial e anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "medial e posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "lateral e anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "lateral e posterior."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q014 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura da diáfise do fêmur, as complicações relacionadas ao ponto de\nentrada da haste femoral anterógrada são os riscos de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesão do nervo glúteo superior e dano à artéria circunflexa femoral medial."
+      },
+      {
+        "letra": "B",
+        "texto": "lesão do nervo glúteo superior e dano à artéria circunflexa femoral lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "lesão do nervo glúteo inferior e dano à artéria circunflexa femoral medial."
+      },
+      {
+        "letra": "D",
+        "texto": "lesão do nervo glúteo inferior e dano à artéria circunflexa femoral lateral."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q015 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A imagem radiográfica do cotovelo a seguir representa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "osteonecrose da tróclea."
+      },
+      {
+        "letra": "B",
+        "texto": "consolidação viciosa da tróclea."
+      },
+      {
+        "letra": "C",
+        "texto": "deficiência congênita da tróclea."
+      },
+      {
+        "letra": "D",
+        "texto": "desgaste central da região distal do úmero."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/015teot2024.png"
+  },
+  {
+    "id": "Q016 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura da tuberosidade da tíbia no adolescente, o risco de síndrome\ncompartimental aguda está relacionado à lesão da artéria",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "infrapatelar transversa."
+      },
+      {
+        "letra": "B",
+        "texto": "recorrente tibial anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "genicular medial inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "recorrente tibial posterior."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q017 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "O paciente com fratura desviada do colo do tálus tratado cirurgicamente,\ndevido ao risco de necrose, deve ser acompanhado por pelo menos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 meses."
+      },
+      {
+        "letra": "B",
+        "texto": "24 meses."
+      },
+      {
+        "letra": "C",
+        "texto": "36 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "48 meses."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q018 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento da fratura do terço proximal do úmero, a complicação mais\nfrequente é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rigidez."
+      },
+      {
+        "letra": "B",
+        "texto": "pseudartrose."
+      },
+      {
+        "letra": "C",
+        "texto": "osteonecrose."
+      },
+      {
+        "letra": "D",
+        "texto": "consolidação viciosa."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q019 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A redução do offset umeral lateral na artroplastia do ombro provoca",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "redução da translação da cabeça umeral."
+      },
+      {
+        "letra": "B",
+        "texto": "redução do braço de alavanca do manguito rotador."
+      },
+      {
+        "letra": "C",
+        "texto": "aumento da pressão sobre o componente glenoidal."
+      },
+      {
+        "letra": "D",
+        "texto": "aumento da tensão nas partes moles adjacentes à articulação."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q020 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No teste de compressão do pronador para diagnóstico de compressão do\nnervo mediano, a pressão com o polegar no músculo pronador redondo deve\nser realizada pelo examinador em suas regiões",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "distal e medial."
+      },
+      {
+        "letra": "B",
+        "texto": "distal e lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "proximal e lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "proximal e medial."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q021 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na semiologia do punho, a instabilidade ligamentar semilunopiramidal é\navaliada pelo teste de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "WATSON."
+      },
+      {
+        "letra": "B",
+        "texto": "LINSCHEID."
+      },
+      {
+        "letra": "C",
+        "texto": "MASQUELET."
+      },
+      {
+        "letra": "D",
+        "texto": "KLEINERT-LATARJET."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q022 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na lesão cervical alta, a regra de SPENCE é utilizada para avaliar lesão do\nligamento",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alar na fratura de C1."
+      },
+      {
+        "letra": "B",
+        "texto": "alar na fratura de C2."
+      },
+      {
+        "letra": "C",
+        "texto": "transverso na fratura de C1."
+      },
+      {
+        "letra": "D",
+        "texto": "transverso na fratura de C2."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q023 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura luxação da região proximal do antebraço na criança, o tipo B da\nclassificação de LETTS corresponde à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fratura completa da ulna com desvio anterior da cabeça do rádio."
+      },
+      {
+        "letra": "B",
+        "texto": "fratura completa da ulna com desvio posterior da cabeça do rádio."
+      },
+      {
+        "letra": "C",
+        "texto": "deformidade plástica da ulna com desvio anterior da cabeça do rádio."
+      },
+      {
+        "letra": "D",
+        "texto": "fratura em galho verde da ulna com desvio anterior da cabeça do rádio."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q024 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A deformidade de HAGLUND refere-se à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bursite retrocalcaneana."
+      },
+      {
+        "letra": "B",
+        "texto": "osteofitose insercional do calcâneo."
+      },
+      {
+        "letra": "C",
+        "texto": "exostose posterossuperior da tuberosidade calcânea."
+      },
+      {
+        "letra": "D",
+        "texto": "exostose insercional da aponeurose plantar no calcâneo."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q025 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura da diáfise do fêmur na criança, o acometimento na região proximal\ncomparado à distal faz com que a redução seja",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mais fácil de controlar e a deformidade residual mais tolerável."
+      },
+      {
+        "letra": "B",
+        "texto": "mais fácil de controlar e a deformidade residual menos tolerável."
+      },
+      {
+        "letra": "C",
+        "texto": "mais difícil de controlar e a deformidade residual mais tolerável."
+      },
+      {
+        "letra": "D",
+        "texto": "mais difícil de controlar e a deformidade residual menos tolerável."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q026 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na avaliação clínica de uma criança com artrite séptica do quadril, este\nfrequentemente encontra-se em posição de flexão,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "adução e rotação medial."
+      },
+      {
+        "letra": "B",
+        "texto": "adução e rotação lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "abdução e rotação medial."
+      },
+      {
+        "letra": "D",
+        "texto": "abdução e rotação lateral."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q027 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A complicação mais comum da artroscopia do tornozelo é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fístula sinovial."
+      },
+      {
+        "letra": "B",
+        "texto": "lesão vascular."
+      },
+      {
+        "letra": "C",
+        "texto": "lesão neurológica."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome da dor complexa regional."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q028 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura da espinha tibial da criança, o maior prejuízo funcional está mais\nfrequentemente associado à presença de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estalido no joelho."
+      },
+      {
+        "letra": "B",
+        "texto": "instabilidade residual."
+      },
+      {
+        "letra": "C",
+        "texto": "derrame de repetição."
+      },
+      {
+        "letra": "D",
+        "texto": "perda da extensão total."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q029 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A técnica cirúrgica para reparo de nervo periférico demonstrada na figura a\nseguir corresponde à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "epineurorrafia."
+      },
+      {
+        "letra": "B",
+        "texto": "perineurorrafia."
+      },
+      {
+        "letra": "C",
+        "texto": "endoneurorrafia"
+      },
+      {
+        "letra": "D",
+        "texto": "epiperineurorrafia."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/029teot2024.png"
+  },
+  {
+    "id": "Q030 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento da instabilidade anterior do ombro com o procedimento de\nLATARJET, os nervos que apresentam maior risco de lesão são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "radial e axilar."
+      },
+      {
+        "letra": "B",
+        "texto": "axilar e supraescapular."
+      },
+      {
+        "letra": "C",
+        "texto": "radial e supraescapular."
+      },
+      {
+        "letra": "D",
+        "texto": "axilar e musculocutâneo."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q031 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento da osteoporose, são medicamentos cuja ação principal é serem\nantirreabsortivos, o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "risedronato e a teriparatida."
+      },
+      {
+        "letra": "B",
+        "texto": "ibandronato e o romosozumabe."
+      },
+      {
+        "letra": "C",
+        "texto": "denosumabe e o romosozumabe."
+      },
+      {
+        "letra": "D",
+        "texto": "ácido zoledrônico e o denosumabe."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q032 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na avaliação das metástases em ossos corticais, as bordas das lesões\nevidenciadas nas radiografias são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "regulares e quase não há reação periosteal."
+      },
+      {
+        "letra": "B",
+        "texto": "regulares e quase sempre existe reação periosteal."
+      },
+      {
+        "letra": "C",
+        "texto": "irregulares e quase não há reação periosteal."
+      },
+      {
+        "letra": "D",
+        "texto": "irregulares e quase sempre existe reação periosteal."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q033 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento cirúrgico da pseudartrose atrófica com encurtamento, pelo\nmétodo de ILIZAROV, é realizada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "distração com corticotomia diafisária e alongamento único."
+      },
+      {
+        "letra": "B",
+        "texto": "compressão com corticotomia diafisária e alongamento único."
+      },
+      {
+        "letra": "C",
+        "texto": "distração com corticotomia metafisária e alongamento gradual."
+      },
+      {
+        "letra": "D",
+        "texto": "compressão com corticotomia metafisária e alongamento gradual."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q034 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No fibroma não ossificante, pela classificação de RITSCHL, as fraturas\nocorrem somente no estágio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A."
+      },
+      {
+        "letra": "B",
+        "texto": "B."
+      },
+      {
+        "letra": "C",
+        "texto": "C."
+      },
+      {
+        "letra": "D",
+        "texto": "D."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q035 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na insuficiência do tendão tibial posterior, a radiografia a seguir mostra o\nângulo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de alinhamento do retropé."
+      },
+      {
+        "letra": "B",
+        "texto": "de alinhamento talonavicular."
+      },
+      {
+        "letra": "C",
+        "texto": "de incongruência talonavicular lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "de incongruência calcaneocuboide medial."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/035teot2024.png"
+  },
+  {
+    "id": "Q036 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "O conceito inicial de artroplastia do quadril de CHARNLEY inclui",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "medialização do componente acetabular e diminuição do braço de alavanca\ndos abdutores."
+      },
+      {
+        "letra": "B",
+        "texto": "medialização do componente acetabular e osteotomia do grande trocanter com\nreinserção lateralizada."
+      },
+      {
+        "letra": "C",
+        "texto": "lateralização do componente acetabular e diminuição do braço de alavanca dos\nabdutores."
+      },
+      {
+        "letra": "D",
+        "texto": "lateralização do componente acetabular e osteotomia do grande trocanter com\nreinserção lateralizada."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q037 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura do calcâneo, a avaliação tomográfica segundo SANDERS utiliza a\nimagem de maior espessura da articulação subtalar na faceta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "média, no corte sagital."
+      },
+      {
+        "letra": "B",
+        "texto": "média, no corte coronal."
+      },
+      {
+        "letra": "C",
+        "texto": "posterior, no corte sagital."
+      },
+      {
+        "letra": "D",
+        "texto": "posterior, no corte coronal."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q038 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na luxação lateral rotatória da articulação interfalangeana proximal da mão, a\nestrutura anatômica que mais frequentemente impede a redução é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a banda lateral."
+      },
+      {
+        "letra": "B",
+        "texto": "a banda espiral."
+      },
+      {
+        "letra": "C",
+        "texto": "o ligamento lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "o côndilo falangeano."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q039 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A fratura periprotética demonstrada na imagem radiográfica a seguir, é\nclassificada como VANCOUVER",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B1."
+      },
+      {
+        "letra": "B",
+        "texto": "B2."
+      },
+      {
+        "letra": "C",
+        "texto": "B3."
+      },
+      {
+        "letra": "D",
+        "texto": "C."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/039teot2024.png"
+  },
+  {
+    "id": "Q040 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na instabilidade patelar do adulto sem displasia troclear, existe a indicação de\nosteotomia de realinhamento distal quando o índice tomográfico TA-GT tem\nvalor igual ou superior a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 mm."
+      },
+      {
+        "letra": "B",
+        "texto": "15 mm."
+      },
+      {
+        "letra": "C",
+        "texto": "20 mm."
+      },
+      {
+        "letra": "D",
+        "texto": "25 mm."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q041 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na displasia do desenvolvimento do quadril, a imagem tomográfica a seguir,\npós-redução incruenta, demonstra:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ambos os quadris luxados."
+      },
+      {
+        "letra": "B",
+        "texto": "ambos os quadris reduzidos."
+      },
+      {
+        "letra": "C",
+        "texto": "o quadril direito luxado e o esquerdo reduzido."
+      },
+      {
+        "letra": "D",
+        "texto": "o quadril direito reduzido e o esquerdo luxado."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/041teot2024.png"
+  },
+  {
+    "id": "Q042 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento da lesão proximal do bíceps por meio da tenodese subpeitoral\ndeve-se afastar cuidadosamente para medial o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "peitoral maior e o grande dorsal para prevenção de lesão do nervo mediano."
+      },
+      {
+        "letra": "B",
+        "texto": "peitoral maior e o grande dorsal para prevenção de lesão do nervo\nmusculocutâneo."
+      },
+      {
+        "letra": "C",
+        "texto": "coracobraquial e a cabeça curta do bíceps para prevenção de lesão do nervo\nmediano."
+      },
+      {
+        "letra": "D",
+        "texto": "coracobraquial e a cabeça curta do bíceps para prevenção de lesão do nervo\nmusculocutâneo."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q043 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "O teste clínico para diagnóstico da síndrome do impacto ulnocarpal é realizado\naplicando-se compressão axial do punho associada à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hiperflexão e desvio ulnar."
+      },
+      {
+        "letra": "B",
+        "texto": "hiperflexão e desvio radial."
+      },
+      {
+        "letra": "C",
+        "texto": "hiperextensão e desvio ulnar."
+      },
+      {
+        "letra": "D",
+        "texto": "hiperextensão e desvio radial."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q044 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A coxa vara do desenvolvimento está mais frequentemente associada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ao pé talo vertical."
+      },
+      {
+        "letra": "B",
+        "texto": "à escoliose congênita."
+      },
+      {
+        "letra": "C",
+        "texto": "à síndrome de MARFAN."
+      },
+      {
+        "letra": "D",
+        "texto": "à disostose cleidocraniana."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q045 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento cirúrgico do hálux valgo do adulto, o desmoronamento é uma\ncomplicação frequente da técnica de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "scarf."
+      },
+      {
+        "letra": "B",
+        "texto": "AKIN."
+      },
+      {
+        "letra": "C",
+        "texto": "CHEVRON."
+      },
+      {
+        "letra": "D",
+        "texto": "LAPIDUS."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q046 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "O teste mais sensível para avalição de suficiência do ligamento cruzado\nanterior do joelho é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o pivot shift."
+      },
+      {
+        "letra": "B",
+        "texto": "o LACHMAN."
+      },
+      {
+        "letra": "C",
+        "texto": "a gaveta anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "o de contração ativa do quadríceps."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q047 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A mielomeningocele em uma criança que apresenta força do quadríceps e\nglúteo médio grau 3 ou mais, e força do complexo gastrocnêmio-soleo grau 2\nou menos é classificada funcionalmente como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lombar alta."
+      },
+      {
+        "letra": "B",
+        "texto": "lombar baixa."
+      },
+      {
+        "letra": "C",
+        "texto": "sacral alta."
+      },
+      {
+        "letra": "D",
+        "texto": "sacral baixa."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q048 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Paciente masculino, 32 anos, vítima de trauma direto no joelho esquerdo há 1\nhora, com pouca dor e com integridade do aparelho extensor. Na imagem\nradiográfica a seguir, o diagnóstico diferencial mais provável com relação à\nfratura da patela é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "patela bipartida."
+      },
+      {
+        "letra": "B",
+        "texto": "osteonecrose da patela."
+      },
+      {
+        "letra": "C",
+        "texto": "pseudoartrose da patela."
+      },
+      {
+        "letra": "D",
+        "texto": "osteocondrite dissecante da patela."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/048teot2024.png"
+  },
+  {
+    "id": "Q049 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura diafisária femoral por projétil de arma de fogo de baixa energia, o\nmétodo preferencial para a estabilização definitiva é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a placa tipo ponte."
+      },
+      {
+        "letra": "B",
+        "texto": "a haste intramedular."
+      },
+      {
+        "letra": "C",
+        "texto": "o fixador externo uniplanar."
+      },
+      {
+        "letra": "D",
+        "texto": "o fixador externo circular tipo ILIZAROV."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q050 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na classificação das lesões fisárias de SALTER-HARRIS, o tipo VI\nacrescentado por RANG consiste na fratura",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "intra-articular com separação parcial da epífise."
+      },
+      {
+        "letra": "B",
+        "texto": "que acomete a placa de crescimento e a metáfise parcialmente."
+      },
+      {
+        "letra": "C",
+        "texto": "avulsão na inserção de um ligamento, levando com ele uma porção do anel\npericondral."
+      },
+      {
+        "letra": "D",
+        "texto": "que passa a partir da superfície articular por todas as camadas da fise através\nda metáfise."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q051 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento do osteossarcoma, a avaliação do grau de necrose tumoral\nsegundo HUVOS está relacionada à quimioterapia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pré-operatória, com graus I e II acima de 90% de necrose."
+      },
+      {
+        "letra": "B",
+        "texto": "pós-operatória, com graus I e II abaixo de 90% de necrose."
+      },
+      {
+        "letra": "C",
+        "texto": "pré-operatória, com graus III e IV acima de 90% de necrose."
+      },
+      {
+        "letra": "D",
+        "texto": "pós-operatória, com graus III e IV abaixo de 90% de necrose."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q052 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A amplitude de movimento do cotovelo de flexão e extensão considerada funcional é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30º a 130º e 50º de pronação e 50º de supinação."
+      },
+      {
+        "letra": "B",
+        "texto": "45º a 145º e 40º de pronação e 60º de supinação."
+      },
+      {
+        "letra": "C",
+        "texto": "30º a 130º e 40º de pronação e 60º de supinação."
+      },
+      {
+        "letra": "D",
+        "texto": "45º a 145º e 50º de pronação e 50º de supinação."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q053 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na luxação traumática anterior do quadril na criança, a manobra de redução ilustrada na figura a seguir é a de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ALLIS."
+      },
+      {
+        "letra": "B",
+        "texto": "STIMSON."
+      },
+      {
+        "letra": "C",
+        "texto": "BIGELOW."
+      },
+      {
+        "letra": "D",
+        "texto": "STEWART-MILFORD."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/053teot2024.png"
+  },
+  {
+    "id": "Q054 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Os discos intervertebrais L4-L5 e L5-S1 contribuem para a lordose lombar em cerca de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "32%."
+      },
+      {
+        "letra": "B",
+        "texto": "43%."
+      },
+      {
+        "letra": "C",
+        "texto": "55%."
+      },
+      {
+        "letra": "D",
+        "texto": "67%."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q055 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A fratura do capitato em crianças ocorre mais frequentemente com o punho em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "flexão."
+      },
+      {
+        "letra": "B",
+        "texto": "extensão."
+      },
+      {
+        "letra": "C",
+        "texto": "desvio ulnar."
+      },
+      {
+        "letra": "D",
+        "texto": "desvio radial."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q056 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na osteossíntese intramedular para fratura proximal da tíbia, o ponto de entrada da haste excessivamente medial provoca desvio da fratura",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em varo."
+      },
+      {
+        "letra": "B",
+        "texto": "em valgo."
+      },
+      {
+        "letra": "C",
+        "texto": "para anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "para posterior."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q057 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na lesão aguda do ligamento cruzado anterior, o padrão típico do edema ósseo encontrado na ressonância magnética acomete o côndilo femoral",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lateral e o planalto tibial lateral. "
+      },
+      {
+        "letra": "B",
+        "texto": "lateral e o planalto tibial medial."
+      },
+      {
+        "letra": "C",
+        "texto": "medial e o planalto tibial lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "medial e o planalto tibial medial."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q058 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A fratura dos ossos do antebraço no adulto é mais comum no sexo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "feminino, acima de 40 anos de idade"
+      },
+      {
+        "letra": "B",
+        "texto": "feminino, abaixo de 40 anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "masculino, acima de 40 anos de idade."
+      },
+      {
+        "letra": "D",
+        "texto": "masculino, abaixo de 40 anos de idade."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q059 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No teste da compressão (squeeze test) para o diagnóstico da ruptura do tendão bicipital distal, a flexão do cotovelo deve ser de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0 a 20 graus."
+      },
+      {
+        "letra": "B",
+        "texto": "20 a 40 graus."
+      },
+      {
+        "letra": "C",
+        "texto": "40 a 60 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "60 a 80 graus."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q060 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "O abscesso de BRODIE ocorre mais frequentemente em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crianças, nas vértebras."
+      },
+      {
+        "letra": "B",
+        "texto": "crianças, nos ossos longos."
+      },
+      {
+        "letra": "C",
+        "texto": "adultos jovens, nas vértebras."
+      },
+      {
+        "letra": "D",
+        "texto": "adultos jovens, nos ossos longos."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q061 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura do tornozelo na criança, segundo DIAS-TACHDJIAN, o mecanismo de trauma em que a fíbula permanece intacta é o de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "supinação-inversão."
+      },
+      {
+        "letra": "B",
+        "texto": "supinação-flexão plantar."
+      },
+      {
+        "letra": "C",
+        "texto": "supinação-rotação interna."
+      },
+      {
+        "letra": "D",
+        "texto": "pronação-eversão-rotação externa."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q062 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na sinostose radioulnar congênita, em um paciente com acometimento unilateral e o antebraço em posição neutra, o tratamento preferencial é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o não cirúrgico."
+      },
+      {
+        "letra": "B",
+        "texto": "a ressecção da sinostose."
+      },
+      {
+        "letra": "C",
+        "texto": "a ressecção da sinostose com interposição."
+      },
+      {
+        "letra": "D",
+        "texto": "a osteotomia e fixação com o antebraço em pronação."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q063 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No trauma raquimedular, a síndrome em que o paciente apresenta função motora e sensibilidade à dor e ao tato preservadas, enquanto a propriocepção está alterada, é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "medular central."
+      },
+      {
+        "letra": "B",
+        "texto": "medular anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "do cone medular."
+      },
+      {
+        "letra": "D",
+        "texto": "medular posterior."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q064 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "O menisco discoide assintomático identificado acidentalmente em uma artroscopia deve ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "submetido à saucerização."
+      },
+      {
+        "letra": "B",
+        "texto": "submetido à meniscoplastia."
+      },
+      {
+        "letra": "C",
+        "texto": "ressecado em sua totalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "deixado intacto sem tratamento."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q065 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A fratura do planalto tibial tipo IV de SCHATZKER ocorre por mecanismo de trauma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A) varo e frequentemente associado à lesão do complexo ligamentar lateral do joelho."
+      },
+      {
+        "letra": "B",
+        "texto": "varo e frequentemente associado à lesão do complexo ligamentar medial do joelho."
+      },
+      {
+        "letra": "C",
+        "texto": "valgo e frequentemente associado à lesão do complexo ligamentar lateral do joelho."
+      },
+      {
+        "letra": "D",
+        "texto": "valgo e frequentemente associado à lesão do complexo ligamentar medial do"
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q066 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na contratura de DUPUYTREN, a progressão da doença é mais rápida nos casos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bilaterais e que acometem os dedos mais radiais da mão."
+      },
+      {
+        "letra": "B",
+        "texto": "bilaterais e que acometem os dedos mais ulnares da mão."
+      },
+      {
+        "letra": "C",
+        "texto": "unilaterais e que acometem os dedos mais radiais da mão."
+      },
+      {
+        "letra": "D",
+        "texto": "unilaterais e que acometem os dedos mais ulnares da mão."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q067 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na síndrome de MAFFUCCI, os múltiplos hemangiomas envolvendo partes moles estão relacionados à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "neurofibromatose."
+      },
+      {
+        "letra": "B",
+        "texto": "encondromatose múltipla."
+      },
+      {
+        "letra": "C",
+        "texto": "displasia fibrosa poliostótica."
+      },
+      {
+        "letra": "D",
+        "texto": "osteocondromatose múltipla."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q068 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura do colo femoral submetida ao acesso lateral direto de HARDINGE não deve ser realizada dissecção proximal maior que 3 cm a 5 cm do trocanter maior, por risco de lesão do nervo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ciático."
+      },
+      {
+        "letra": "B",
+        "texto": "femoral."
+      },
+      {
+        "letra": "C",
+        "texto": "glúteo inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "glúteo superior."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q069 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na epifisiólise aguda e instável, a técnica em que é realizada uma artrotomia com redução aberta suave e descompressão da cápsula é a de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GANZ."
+      },
+      {
+        "letra": "B",
+        "texto": "DUNN."
+      },
+      {
+        "letra": "C",
+        "texto": "PARSCH."
+      },
+      {
+        "letra": "D",
+        "texto": "SOUTHWICK."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q070 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na escoliose idiopática infantil, o método desenvolvido por MEHTA para avaliar o potencial de progressão é por meio da diferença na mensuração do ângulo entre",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "arcos costais e vértebra."
+      },
+      {
+        "letra": "B",
+        "texto": "pedículos e processo espinhoso."
+      },
+      {
+        "letra": "C",
+        "texto": "vértebra superior e vértebra apical."
+      },
+      {
+        "letra": "D",
+        "texto": "vértebra apical e vértebra neutra inferior."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q071 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Em uma hérnia de disco cervical foraminal com parestesia na face lateral do antebraço e no polegar, e diminuição de força do extensor radial longo do carpo, a raiz e o segmento vertebral envolvidos são respectivamente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A) C5 e C4-C5."
+      },
+      {
+        "letra": "B",
+        "texto": "C5 e C5-C6."
+      },
+      {
+        "letra": "C",
+        "texto": "C6 e C5-C6."
+      },
+      {
+        "letra": "D",
+        "texto": "C6 e C6-C7."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q072 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Em relação à embriologia do membro superior, o mesoderma lateral é responsável pela formação de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ossos, tendões e cartilagens."
+      },
+      {
+        "letra": "B",
+        "texto": "cartilagens, tendões e músculos."
+      },
+      {
+        "letra": "C",
+        "texto": "vasos sanguíneos, nervos e ossos."
+      },
+      {
+        "letra": "D",
+        "texto": "músculos, nervos e vasos sanguíneos."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q073 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na amputação transumeral, a osteotomia angular indicada para melhor adaptação da prótese mioelétrica deve ser realizada com ângulo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "45º e fixação com placa anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "70º e fixação com placa anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "45º e fixação com placa posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "70º e fixação com placa posterior."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q074 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A técnica de amputação do membro inferior demonstrada na imagem a seguir foi descrita por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BOYD."
+      },
+      {
+        "letra": "B",
+        "texto": "SYME."
+      },
+      {
+        "letra": "C",
+        "texto": "WAGNER."
+      },
+      {
+        "letra": "D",
+        "texto": "SARMIENTO."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/074teot2024.png"
+  },
+  {
+    "id": "Q075 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na tendinopatia calcária do manguito rotador, o tendão mais acometido é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "infraespinal, 1,5 cm a 2 cm da sua inserção."
+      },
+      {
+        "letra": "B",
+        "texto": "supraespinal, 1,5 cm a 2 cm da sua inserção."
+      },
+      {
+        "letra": "C",
+        "texto": "infraespinal com localização insercional."
+      },
+      {
+        "letra": "D",
+        "texto": "supraespinal com localização insercional."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q076 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na osteomielite da coluna vertebral, as infecções por Enterococcus e Streptococcus têm foco primário associado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "à pneumonia."
+      },
+      {
+        "letra": "B",
+        "texto": "à endocardite."
+      },
+      {
+        "letra": "C",
+        "texto": "à cavidade oral."
+      },
+      {
+        "letra": "D",
+        "texto": "ao trato urinário."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q077 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Paciente masculino, 15 anos, com dor na coxa. Com a imagem radiográfica a seguir, a principal hipótese diagnóstica é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "osteossarcoma."
+      },
+      {
+        "letra": "B",
+        "texto": "condroblastoma."
+      },
+      {
+        "letra": "C",
+        "texto": "osteoma osteoide."
+      },
+      {
+        "letra": "D",
+        "texto": "tumor de células gigantes."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q078 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na artroscopia do joelho para reparo de uma lesão instável no corno anterior do menisco, a melhor opção de sutura é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "all-inside."
+      },
+      {
+        "letra": "B",
+        "texto": "all-outside."
+      },
+      {
+        "letra": "C",
+        "texto": "outside-in"
+      },
+      {
+        "letra": "D",
+        "texto": "inside-out."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q079 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",  
+    "ano": 2024,
+    "questao": "Na deformidade de SPRENGEL, a abdução do ombro está",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "normal e a escápula hipoplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "normal e a escápula hiperplásica."
+      },
+      {
+        "letra": "C",
+        "texto": "limitada e a escápula hipoplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "limitada e a escápula hiperplásica."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q080 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na propedêutica do quadril, o teste demonstrado na imagem a seguir é o de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "LUDLOFF, realizado para avaliar lesão do iliopsoas e fratura-avulsão do trocanter menor."
+      },
+      {
+        "letra": "B",
+        "texto": "LUDLOFF, realizado para avaliar lesão do reto femoral e fratura-avulsão da espinha ilíaca anteroinferior."
+      },
+      {
+        "letra": "C",
+        "texto": "BRAGARD, realizado para avaliar lesão do iliopsoas e fratura-avulsão do trocanter menor."
+      },
+      {
+        "letra": "D",
+        "texto": "BRAGARD, realizado para avaliar lesão do reto femoral e fratura-avulsão da"
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/080teot2024.png"
+  },
+  {
+    "id": "Q081 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A fratura do processo coronoide classificada por O’DRISCOLL como tipo II, subtipo III, acomete necessariamente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a base do processo coronoide."
+      },
+      {
+        "letra": "B",
+        "texto": "a ponta do processo coronoide."
+      },
+      {
+        "letra": "C",
+        "texto": "a faceta anteromedial e o tubérculo sublime."
+      },
+      {
+        "letra": "D",
+        "texto": "a faceta anteromedial e a ponta do coronoide."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q082 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Os ligamentos meniscofemorais são restritores secundários da translação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anterior da tíbia e se inserem no corno posterior do menisco lateral."
+      },
+      {
+        "letra": "B",
+        "texto": "anterior da tíbia e se inserem no corno posterior do menisco medial."
+      },
+      {
+        "letra": "C",
+        "texto": "posterior da tíbia e se inserem no corno posterior do menisco lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "posterior da tíbia e se inserem no corno posterior do menisco medial."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q083 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento da artrose do joelho, uma contraindicação para a realização de osteotomia proximal da tíbia é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "presença de artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "instabilidade associada do canto posterolateral. "
+      },
+      {
+        "letra": "C",
+        "texto": "necessidade de correção maior do que 10 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "dor no compartimento afetado durante atividade de alta demanda."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q084 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na paralisia cerebral, a técnica de VULPIUS para o tratamento do pé equino érealizada na zona de alongamento",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1."
+      },
+      {
+        "letra": "B",
+        "texto": "2."
+      },
+      {
+        "letra": "C",
+        "texto": "3."
+      },
+      {
+        "letra": "D",
+        "texto": "4."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q085 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na lesão fisária esternoclavicular com desvio anterior da metáfise, a inclinação da cabeça e a direção da tração do músculo esternocleidomastóideo são, respectivamente, para o lado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "afetado e anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "afetado e posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "não afetado e anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "não afetado e posterior."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q086 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No pé da criança, a presença de osso acessório que mais frequentemente associa-se a sintoma é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os fibulare."
+      },
+      {
+        "letra": "B",
+        "texto": "Os trigonum."
+      },
+      {
+        "letra": "C",
+        "texto": "Os vesalianum."
+      },
+      {
+        "letra": "D",
+        "texto": "Os naviculare acessorium."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q087 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na deformidade de MADELUNG, o ligamento de VICKERS conecta o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "escafoide à epífise do rádio."
+      },
+      {
+        "letra": "B",
+        "texto": "escafoide à metáfise do rádio."
+      },
+      {
+        "letra": "C",
+        "texto": "semilunar à epífise do rádio."
+      },
+      {
+        "letra": "D",
+        "texto": "semilunar à metáfise do rádio."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q088 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura do polo proximal do escafoide no adulto, a prevalência da necrose do polo proximal é de aproximadamente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "35%."
+      },
+      {
+        "letra": "B",
+        "texto": "55%."
+      },
+      {
+        "letra": "C",
+        "texto": "75%."
+      },
+      {
+        "letra": "D",
+        "texto": "95%."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q089 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na escoliose degenerativa do adulto, os sintomas de claudicação neurogênica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "melhoram com a flexão do tronco, assim como na estenose de canal lombar."
+      },
+      {
+        "letra": "B",
+        "texto": "melhoram com a flexão do tronco, ao contrário da estenose de canal lombar."
+      },
+      {
+        "letra": "C",
+        "texto": "não melhoram com a flexão do tronco, assim como na estenose de canal lombar."
+      },
+      {
+        "letra": "D",
+        "texto": "não melhoram com a flexão do tronco, ao contrário da estenose de canal"
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q090 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na dissociação escapulotorácica, o tipo 2B na classificação de ZELLE é caracterizado por comprometimento",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "musculoesquelético isolado."
+      },
+      {
+        "letra": "B",
+        "texto": "musculoesquelético e vascular."
+      },
+      {
+        "letra": "C",
+        "texto": "musculoesquelético e neurológico incompleto."
+      },
+      {
+        "letra": "D",
+        "texto": "musculoesquelético, neurológico incompleto e vascular."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q091 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "No tratamento da ruptura crônica do tendão patelar, a técnica de MANDELBAUM consiste em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reconstrução com tendão calcâneo homólogo."
+      },
+      {
+        "letra": "B",
+        "texto": "reconstrução com tendões flexores autólogos."
+      },
+      {
+        "letra": "C",
+        "texto": "reconstrução com tendões flexores homólogos."
+      },
+      {
+        "letra": "D",
+        "texto": "reparo do tendão com zetaplastia, e reforço com tendões flexores autólogos."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q092 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "O quadro de SCIWORA corresponde a uma condição em que o paciente apresenta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "radiografia simples sem alterações e Frankel C."
+      },
+      {
+        "letra": "B",
+        "texto": "radiografia simples sem alterações e Frankel E."
+      },
+      {
+        "letra": "C",
+        "texto": "ressonância magnética sempre com alterações e Frankel C"
+      },
+      {
+        "letra": "D",
+        "texto": "ressonância magnética sempre com alterações e Frankel E."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q093 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Nas infecções, o método para desalojar os microrganismos dos implantes ortopédicos retirados nas cirurgias aumentando a sensibilidade das culturas é conhecido como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sonicação."
+      },
+      {
+        "letra": "B",
+        "texto": "fluidificação."
+      },
+      {
+        "letra": "C",
+        "texto": "extração nuclear."
+      },
+      {
+        "letra": "D",
+        "texto": "reação em cadeia da polimerase (PCR)."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q094 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na síndrome de WARTENBERG, os sintomas de parestesia do território sensitivo radial são provocados pela digitopercussão associada à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pronação e flexão forçada do punho."
+      },
+      {
+        "letra": "B",
+        "texto": "supinação e flexão forçada do punho."
+      },
+      {
+        "letra": "C",
+        "texto": "pronação e extensão forçada do punho."
+      },
+      {
+        "letra": "D",
+        "texto": "supinação e extensão forçada do punho."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q095 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na fratura de acetábulo, a figura a seguir representa um corte tomográfico axial, sendo que os planos A e B demonstram respectivamente a orientação do traço de fratura  Fonte: AZAR, F. M.; BEATY, J. H. Campbell’s operative orthopaedics. 14. ed. Philadelphia: Elsevier, 2021.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transversa e da coluna."
+      },
+      {
+        "letra": "B",
+        "texto": "transversa e da parede."
+      },
+      {
+        "letra": "C",
+        "texto": "da coluna e transversa."
+      },
+      {
+        "letra": "D",
+        "texto": "da parede e transversa."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média",
+    "imagemQuestao": "/imagemquestao/teot2024/095teot2024.png"
+  },
+  {
+    "id": "Q096 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A complicação neurovascular mais comum após a fratura da clavícula é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aneurisma da artéria subclávia."
+      },
+      {
+        "letra": "B",
+        "texto": "estiramento agudo do plexo braquial."
+      },
+      {
+        "letra": "C",
+        "texto": "trombose subaguda da veia subclávia."
+      },
+      {
+        "letra": "D",
+        "texto": "compressão crônica do plexo braquial."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q097 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na osteoartrite da mão, os osteófitos que se formam nas articulações interfalangeanas proximais e distais são denominados nódulos de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BOUCHARD e HEBERDEN, respectivamente."
+      },
+      {
+        "letra": "B",
+        "texto": "HEBERDEN e BOUCHARD, respectivamente."
+      },
+      {
+        "letra": "C",
+        "texto": "BOUCHARD, em ambas as localizações."
+      },
+      {
+        "letra": "D",
+        "texto": "HEBERDEN, em ambas as localizações."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q098 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "Na sequela da fratura da cabeça e do colo do rádio em crianças, o movimento mais frequentemente comprometido é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "flexão."
+      },
+      {
+        "letra": "B",
+        "texto": "extensão."
+      },
+      {
+        "letra": "C",
+        "texto": "pronação."
+      },
+      {
+        "letra": "D",
+        "texto": "supinação."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q099 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A tuberculose osteoarticular no esqueleto apendicular acomete mais frequentemente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ombro e cotovelo."
+      },
+      {
+        "letra": "B",
+        "texto": "punho e mão."
+      },
+      {
+        "letra": "C",
+        "texto": "quadril e joelho."
+      },
+      {
+        "letra": "D",
+        "texto": "tornozelo e pé."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  },
+  {
+    "id": "Q100 TEOT 2024",
+    "tipo": "TEOT",
+    "area": "",
+    "subtema": "",
+    "ano": 2024,
+    "questao": "A profilaxia da Síndrome Complexa de Dor Regional nas fraturas de punho pode ser realizada com uso oral de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vitamina A"
+      },
+      {
+        "letra": "B",
+        "texto": "vitamina B."
+      },
+      {
+        "letra": "C",
+        "texto": "vitamina C."
+      },
+      {
+        "letra": "D",
+        "texto": "vitamina D."
+      }
+    ],
+    "gabarito": "",
+    "comentario": "",
+    "imagemJustificativa": "",
+    "dificuldade": "Média"
+  }
+]
