@@ -51,7 +51,8 @@ const [refreshFlag, setRefreshFlag] = useState(false);
 <Historico refreshFlag={refreshFlag} />
 const forcarAtualizacao = () => setRefreshFlag(prev => !prev);
 
-const API_URL = import.meta.env.VITE_API_URL;
+  const API_URL = import.meta.env.VITE_API_URL;
+  const API_BASE_URL = `${API_URL}/api`;
 
 const fetchQuestoes = async () => {
   setLoading(true);

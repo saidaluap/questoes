@@ -37,6 +37,7 @@ const [filtroAno, setFiltroAno] = useState('');
       //params.append('limit', ITEMS_PER_PAGE);
 
   const API_URL = import.meta.env.VITE_API_URL;
+  const API_BASE_URL = `${API_URL}/api`;
   
       // Buscar histórico
       const response = await fetch(`${API_URL}/api/historico?${params}`, {

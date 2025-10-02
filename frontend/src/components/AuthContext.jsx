@@ -16,7 +16,7 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
 
   const API_URL = import.meta.env.VITE_API_URL;
-  const API_BASE_URL = '${API_URL}/api';
+  const API_BASE_URL = `${API_URL}/api`;
 
   useEffect(() => {
     if (token) {

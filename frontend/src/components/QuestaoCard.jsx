@@ -12,6 +12,7 @@ const handleResponder = async () => {
     setMostrarComentario(true);
 
   const API_URL = import.meta.env.VITE_API_URL;
+  const API_BASE_URL = `${API_URL}/api`;
 
     // Faz o POST para salvar a resposta no backend
     try {
